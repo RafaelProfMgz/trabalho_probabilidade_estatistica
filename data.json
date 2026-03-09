@@ -1,0 +1,6361 @@
+[
+  {
+    "merchantName": null,
+    "productDescription": "GTX 1650 GDDR6",
+    "productPopularityScore": 17,
+    "priceHistory": [
+      {
+        "date": "2025-03-31T00:00:00",
+        "price": 999.99,
+        "finalPrice": 999.99,
+        "defaultLocalMoneyValue": 479,
+        "defaultValueForMoney": 0.479,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-07T00:00:00",
+        "price": 1099.9,
+        "finalPrice": 1099.9,
+        "defaultLocalMoneyValue": 478.46,
+        "defaultValueForMoney": 0.435,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-14T00:00:00",
+        "price": 1099.9,
+        "finalPrice": 1099.9,
+        "defaultLocalMoneyValue": 478.46,
+        "defaultValueForMoney": 0.435,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-21T00:00:00",
+        "price": 1199.99,
+        "finalPrice": 1199.99,
+        "defaultLocalMoneyValue": 478.8,
+        "defaultValueForMoney": 0.399,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-28T00:00:00",
+        "price": 1199.99,
+        "finalPrice": 1199.99,
+        "defaultLocalMoneyValue": 478.8,
+        "defaultValueForMoney": 0.399,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-05T00:00:00",
+        "price": 1172.99,
+        "finalPrice": 1172.99,
+        "defaultLocalMoneyValue": 478.58,
+        "defaultValueForMoney": 0.408,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-12T00:00:00",
+        "price": 1376.74,
+        "finalPrice": 1376.74,
+        "defaultLocalMoneyValue": 473.6,
+        "defaultValueForMoney": 0.344,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-19T00:00:00",
+        "price": 1244.2,
+        "finalPrice": 1244.2,
+        "defaultLocalMoneyValue": 472.8,
+        "defaultValueForMoney": 0.38,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-26T00:00:00",
+        "price": 1820.53,
+        "finalPrice": 1820.53,
+        "defaultLocalMoneyValue": 473.34,
+        "defaultValueForMoney": 0.26,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-02T00:00:00",
+        "price": 949,
+        "finalPrice": 949,
+        "defaultLocalMoneyValue": 501.07,
+        "defaultValueForMoney": 0.528,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-09T00:00:00",
+        "price": 1410.51,
+        "finalPrice": 1410.51,
+        "defaultLocalMoneyValue": 514.84,
+        "defaultValueForMoney": 0.365,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-16T00:00:00",
+        "price": 1132.41,
+        "finalPrice": 1132.41,
+        "defaultLocalMoneyValue": 479.01,
+        "defaultValueForMoney": 0.423,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-23T00:00:00",
+        "price": 1180.34,
+        "finalPrice": 1180.34,
+        "defaultLocalMoneyValue": 499.28,
+        "defaultValueForMoney": 0.423,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-30T00:00:00",
+        "price": 1876.85,
+        "finalPrice": 1876.85,
+        "defaultLocalMoneyValue": 514.26,
+        "defaultValueForMoney": 0.274,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-07T00:00:00",
+        "price": 1909.11,
+        "finalPrice": 1909.11,
+        "defaultLocalMoneyValue": 458.19,
+        "defaultValueForMoney": 0.24,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-14T00:00:00",
+        "price": 1909.11,
+        "finalPrice": 1909.11,
+        "defaultLocalMoneyValue": 458.19,
+        "defaultValueForMoney": 0.24,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-21T00:00:00",
+        "price": 1889.94,
+        "finalPrice": 1889.94,
+        "defaultLocalMoneyValue": 514.06,
+        "defaultValueForMoney": 0.272,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-28T00:00:00",
+        "price": 1621.85,
+        "finalPrice": 1621.85,
+        "defaultLocalMoneyValue": 473.58,
+        "defaultValueForMoney": 0.292,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-04T00:00:00",
+        "price": 1479.95,
+        "finalPrice": 1479.95,
+        "defaultLocalMoneyValue": 473.58,
+        "defaultValueForMoney": 0.32,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-11T00:00:00",
+        "price": 1465.51,
+        "finalPrice": 1465.51,
+        "defaultLocalMoneyValue": 493.88,
+        "defaultValueForMoney": 0.337,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-18T00:00:00",
+        "price": 1079.1,
+        "finalPrice": 1079.1,
+        "defaultLocalMoneyValue": 501.78,
+        "defaultValueForMoney": 0.465,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-25T00:00:00",
+        "price": 1909.11,
+        "finalPrice": 1909.11,
+        "defaultLocalMoneyValue": 458.19,
+        "defaultValueForMoney": 0.24,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-01T00:00:00",
+        "price": 1089,
+        "finalPrice": 1089,
+        "defaultLocalMoneyValue": 500.94,
+        "defaultValueForMoney": 0.46,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-08T00:00:00",
+        "price": 1547.48,
+        "finalPrice": 1547.48,
+        "defaultLocalMoneyValue": 473.53,
+        "defaultValueForMoney": 0.306,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-15T00:00:00",
+        "price": 1909.11,
+        "finalPrice": 1909.11,
+        "defaultLocalMoneyValue": 458.19,
+        "defaultValueForMoney": 0.24,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-22T00:00:00",
+        "price": 1909.11,
+        "finalPrice": 1909.11,
+        "defaultLocalMoneyValue": 458.19,
+        "defaultValueForMoney": 0.24,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-29T00:00:00",
+        "price": 1909.11,
+        "finalPrice": 1909.11,
+        "defaultLocalMoneyValue": 458.19,
+        "defaultValueForMoney": 0.24,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-06T00:00:00",
+        "price": 1587.47,
+        "finalPrice": 1587.47,
+        "defaultLocalMoneyValue": 473.07,
+        "defaultValueForMoney": 0.298,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-13T00:00:00",
+        "price": 1434.57,
+        "finalPrice": 1434.57,
+        "defaultLocalMoneyValue": 473.41,
+        "defaultValueForMoney": 0.33,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-20T00:00:00",
+        "price": 1527.28,
+        "finalPrice": 1527.28,
+        "defaultLocalMoneyValue": 459.71,
+        "defaultValueForMoney": 0.301,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-27T00:00:00",
+        "price": 1527.28,
+        "finalPrice": 1527.28,
+        "defaultLocalMoneyValue": 459.71,
+        "defaultValueForMoney": 0.301,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-03T00:00:00",
+        "price": 1370.98,
+        "finalPrice": 1370.98,
+        "defaultLocalMoneyValue": 472.99,
+        "defaultValueForMoney": 0.345,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-10T00:00:00",
+        "price": 1527.28,
+        "finalPrice": 1527.28,
+        "defaultLocalMoneyValue": 459.71,
+        "defaultValueForMoney": 0.301,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-17T00:00:00",
+        "price": 1527.28,
+        "finalPrice": 1527.28,
+        "defaultLocalMoneyValue": 459.71,
+        "defaultValueForMoney": 0.301,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-24T00:00:00",
+        "price": 978.42,
+        "finalPrice": 978.42,
+        "defaultLocalMoneyValue": 473.56,
+        "defaultValueForMoney": 0.484,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-01T00:00:00",
+        "price": 1577.91,
+        "finalPrice": 1577.91,
+        "defaultLocalMoneyValue": 504.93,
+        "defaultValueForMoney": 0.32,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-08T00:00:00",
+        "price": 1909.11,
+        "finalPrice": 1909.11,
+        "defaultLocalMoneyValue": 458.19,
+        "defaultValueForMoney": 0.24,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-15T00:00:00",
+        "price": 1909.11,
+        "finalPrice": 1909.11,
+        "defaultLocalMoneyValue": 458.19,
+        "defaultValueForMoney": 0.24,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-22T00:00:00",
+        "price": 1909.11,
+        "finalPrice": 1909.11,
+        "defaultLocalMoneyValue": 458.19,
+        "defaultValueForMoney": 0.24,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-29T00:00:00",
+        "price": 1768.42,
+        "finalPrice": 1768.42,
+        "defaultLocalMoneyValue": 511.07,
+        "defaultValueForMoney": 0.289,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-05T00:00:00",
+        "price": 999.99,
+        "finalPrice": 999.99,
+        "defaultLocalMoneyValue": 434,
+        "defaultValueForMoney": 0.434,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-12T00:00:00",
+        "price": 999.99,
+        "finalPrice": 999.99,
+        "defaultLocalMoneyValue": 434,
+        "defaultValueForMoney": 0.434,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-19T00:00:00",
+        "price": 999.99,
+        "finalPrice": 999.99,
+        "defaultLocalMoneyValue": 434,
+        "defaultValueForMoney": 0.434,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-26T00:00:00",
+        "price": 999.99,
+        "finalPrice": 999.99,
+        "defaultLocalMoneyValue": 434,
+        "defaultValueForMoney": 0.434,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-02T00:00:00",
+        "price": 999.99,
+        "finalPrice": 999.99,
+        "defaultLocalMoneyValue": 434,
+        "defaultValueForMoney": 0.434,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-09T00:00:00",
+        "price": 999.99,
+        "finalPrice": 999.99,
+        "defaultLocalMoneyValue": 434,
+        "defaultValueForMoney": 0.434,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-16T00:00:00",
+        "price": 999.99,
+        "finalPrice": 999.99,
+        "defaultLocalMoneyValue": 434,
+        "defaultValueForMoney": 0.434,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-23T00:00:00",
+        "price": 999.99,
+        "finalPrice": 999.99,
+        "defaultLocalMoneyValue": 434,
+        "defaultValueForMoney": 0.434,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-03-02T00:00:00",
+        "price": 999.99,
+        "finalPrice": 999.99,
+        "defaultLocalMoneyValue": 434,
+        "defaultValueForMoney": 0.434,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-03-09T00:00:00",
+        "price": 999.99,
+        "finalPrice": 999.99,
+        "defaultLocalMoneyValue": 434,
+        "defaultValueForMoney": 0.434,
+        "installmentMonths": null
+      }
+    ]
+  },
+  {
+    "merchantName": null,
+    "productDescription": "GTX 1660 SUPER",
+    "productPopularityScore": 75,
+    "priceHistory": [
+      {
+        "date": "2025-03-31T00:00:00",
+        "price": 6294.01,
+        "finalPrice": 6294.01,
+        "defaultLocalMoneyValue": 793.05,
+        "defaultValueForMoney": 0.126,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-07T00:00:00",
+        "price": 2963.1,
+        "finalPrice": 2963.1,
+        "defaultLocalMoneyValue": 791.15,
+        "defaultValueForMoney": 0.267,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-14T00:00:00",
+        "price": 2963.1,
+        "finalPrice": 2963.1,
+        "defaultLocalMoneyValue": 791.15,
+        "defaultValueForMoney": 0.267,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-21T00:00:00",
+        "price": 2963.1,
+        "finalPrice": 2963.1,
+        "defaultLocalMoneyValue": 791.15,
+        "defaultValueForMoney": 0.267,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-28T00:00:00",
+        "price": 2963.1,
+        "finalPrice": 2963.1,
+        "defaultLocalMoneyValue": 791.15,
+        "defaultValueForMoney": 0.267,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-05T00:00:00",
+        "price": 2963.1,
+        "finalPrice": 2963.1,
+        "defaultLocalMoneyValue": 791.15,
+        "defaultValueForMoney": 0.267,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-12T00:00:00",
+        "price": 3230.09,
+        "finalPrice": 3230.09,
+        "defaultLocalMoneyValue": 781.68,
+        "defaultValueForMoney": 0.242,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-19T00:00:00",
+        "price": 3230.09,
+        "finalPrice": 3230.09,
+        "defaultLocalMoneyValue": 781.68,
+        "defaultValueForMoney": 0.242,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-26T00:00:00",
+        "price": 3230.09,
+        "finalPrice": 3230.09,
+        "defaultLocalMoneyValue": 781.68,
+        "defaultValueForMoney": 0.242,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-02T00:00:00",
+        "price": 2387.8,
+        "finalPrice": 2387.8,
+        "defaultLocalMoneyValue": 790.36,
+        "defaultValueForMoney": 0.331,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-09T00:00:00",
+        "price": 2155.91,
+        "finalPrice": 2155.91,
+        "defaultLocalMoneyValue": 791.22,
+        "defaultValueForMoney": 0.367,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-16T00:00:00",
+        "price": 1951.83,
+        "finalPrice": 1951.83,
+        "defaultLocalMoneyValue": 790.49,
+        "defaultValueForMoney": 0.405,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-23T00:00:00",
+        "price": 1951.66,
+        "finalPrice": 1951.66,
+        "defaultLocalMoneyValue": 790.42,
+        "defaultValueForMoney": 0.405,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-30T00:00:00",
+        "price": 1952.51,
+        "finalPrice": 1952.51,
+        "defaultLocalMoneyValue": 790.77,
+        "defaultValueForMoney": 0.405,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-07T00:00:00",
+        "price": 1960.2,
+        "finalPrice": 1960.2,
+        "defaultLocalMoneyValue": 791.92,
+        "defaultValueForMoney": 0.404,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-14T00:00:00",
+        "price": 1963.39,
+        "finalPrice": 1963.39,
+        "defaultLocalMoneyValue": 791.25,
+        "defaultValueForMoney": 0.403,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-21T00:00:00",
+        "price": 1247.03,
+        "finalPrice": 1247.03,
+        "defaultLocalMoneyValue": 790.62,
+        "defaultValueForMoney": 0.634,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-28T00:00:00",
+        "price": 1065.17,
+        "finalPrice": 1065.17,
+        "defaultLocalMoneyValue": 790.36,
+        "defaultValueForMoney": 0.742,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-04T00:00:00",
+        "price": 1013.21,
+        "finalPrice": 1013.21,
+        "defaultLocalMoneyValue": 790.3,
+        "defaultValueForMoney": 0.78,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-11T00:00:00",
+        "price": 1035.26,
+        "finalPrice": 1035.26,
+        "defaultLocalMoneyValue": 864.44,
+        "defaultValueForMoney": 0.835,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-18T00:00:00",
+        "price": 1035.26,
+        "finalPrice": 1035.26,
+        "defaultLocalMoneyValue": 864.44,
+        "defaultValueForMoney": 0.835,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-25T00:00:00",
+        "price": 1629.26,
+        "finalPrice": 1629.26,
+        "defaultLocalMoneyValue": 760.86,
+        "defaultValueForMoney": 0.467,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-01T00:00:00",
+        "price": 1321.58,
+        "finalPrice": 1321.58,
+        "defaultLocalMoneyValue": 759.91,
+        "defaultValueForMoney": 0.575,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-08T00:00:00",
+        "price": 1347.9,
+        "finalPrice": 1347.9,
+        "defaultLocalMoneyValue": 760.22,
+        "defaultValueForMoney": 0.564,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-15T00:00:00",
+        "price": 1843.68,
+        "finalPrice": 1843.68,
+        "defaultLocalMoneyValue": 790.94,
+        "defaultValueForMoney": 0.429,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-22T00:00:00",
+        "price": 1013.21,
+        "finalPrice": 1013.21,
+        "defaultLocalMoneyValue": 790.3,
+        "defaultValueForMoney": 0.78,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-29T00:00:00",
+        "price": 1039.19,
+        "finalPrice": 1039.19,
+        "defaultLocalMoneyValue": 790.82,
+        "defaultValueForMoney": 0.761,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-06T00:00:00",
+        "price": 1853.01,
+        "finalPrice": 1853.01,
+        "defaultLocalMoneyValue": 791.24,
+        "defaultValueForMoney": 0.427,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-13T00:00:00",
+        "price": 1549.9,
+        "finalPrice": 1549.9,
+        "defaultLocalMoneyValue": 790.45,
+        "defaultValueForMoney": 0.51,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-20T00:00:00",
+        "price": 1549.9,
+        "finalPrice": 1549.9,
+        "defaultLocalMoneyValue": 790.45,
+        "defaultValueForMoney": 0.51,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-27T00:00:00",
+        "price": 1756.17,
+        "finalPrice": 1756.17,
+        "defaultLocalMoneyValue": 792.03,
+        "defaultValueForMoney": 0.451,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-03T00:00:00",
+        "price": 1755.57,
+        "finalPrice": 1755.57,
+        "defaultLocalMoneyValue": 791.76,
+        "defaultValueForMoney": 0.451,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-10T00:00:00",
+        "price": 1755.69,
+        "finalPrice": 1755.69,
+        "defaultLocalMoneyValue": 791.82,
+        "defaultValueForMoney": 0.451,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-17T00:00:00",
+        "price": 1758.87,
+        "finalPrice": 1758.87,
+        "defaultLocalMoneyValue": 791.49,
+        "defaultValueForMoney": 0.45,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-24T00:00:00",
+        "price": 1756.18,
+        "finalPrice": 1756.18,
+        "defaultLocalMoneyValue": 792.04,
+        "defaultValueForMoney": 0.451,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-01T00:00:00",
+        "price": 1777.81,
+        "finalPrice": 1777.81,
+        "defaultLocalMoneyValue": 791.13,
+        "defaultValueForMoney": 0.445,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-08T00:00:00",
+        "price": 1795.65,
+        "finalPrice": 1795.65,
+        "defaultLocalMoneyValue": 791.88,
+        "defaultValueForMoney": 0.441,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-15T00:00:00",
+        "price": 1797.49,
+        "finalPrice": 1797.49,
+        "defaultLocalMoneyValue": 790.9,
+        "defaultValueForMoney": 0.44,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-22T00:00:00",
+        "price": 1549.9,
+        "finalPrice": 1549.9,
+        "defaultLocalMoneyValue": 790.45,
+        "defaultValueForMoney": 0.51,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-29T00:00:00",
+        "price": 1549.9,
+        "finalPrice": 1549.9,
+        "defaultLocalMoneyValue": 790.45,
+        "defaultValueForMoney": 0.51,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-05T00:00:00",
+        "price": 1549.9,
+        "finalPrice": 1549.9,
+        "defaultLocalMoneyValue": 790.45,
+        "defaultValueForMoney": 0.51,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-12T00:00:00",
+        "price": 1789.43,
+        "finalPrice": 1789.43,
+        "defaultLocalMoneyValue": 790.93,
+        "defaultValueForMoney": 0.442,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-19T00:00:00",
+        "price": 1119.2,
+        "finalPrice": 1119.2,
+        "defaultLocalMoneyValue": 864.02,
+        "defaultValueForMoney": 0.772,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-26T00:00:00",
+        "price": 1091.22,
+        "finalPrice": 1091.22,
+        "defaultLocalMoneyValue": 864.25,
+        "defaultValueForMoney": 0.792,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-02T00:00:00",
+        "price": 1792.49,
+        "finalPrice": 1792.49,
+        "defaultLocalMoneyValue": 790.49,
+        "defaultValueForMoney": 0.441,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-09T00:00:00",
+        "price": 1792.49,
+        "finalPrice": 1792.49,
+        "defaultLocalMoneyValue": 790.49,
+        "defaultValueForMoney": 0.441,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-16T00:00:00",
+        "price": 1789.89,
+        "finalPrice": 1789.89,
+        "defaultLocalMoneyValue": 791.13,
+        "defaultValueForMoney": 0.442,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-23T00:00:00",
+        "price": 1783.16,
+        "finalPrice": 1783.16,
+        "defaultLocalMoneyValue": 791.72,
+        "defaultValueForMoney": 0.444,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-03-02T00:00:00",
+        "price": 1796.16,
+        "finalPrice": 1796.16,
+        "defaultLocalMoneyValue": 792.11,
+        "defaultValueForMoney": 0.441,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-03-09T00:00:00",
+        "price": 1796.53,
+        "finalPrice": 1796.53,
+        "defaultLocalMoneyValue": 790.47,
+        "defaultValueForMoney": 0.44,
+        "installmentMonths": null
+      }
+    ]
+  },
+  {
+    "merchantName": null,
+    "productDescription": "RTX 3050 6 GB",
+    "productPopularityScore": 116,
+    "priceHistory": [
+      {
+        "date": "2025-03-31T00:00:00",
+        "price": 1199.99,
+        "finalPrice": 1199.99,
+        "defaultLocalMoneyValue": 866.39,
+        "defaultValueForMoney": 0.722,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-07T00:00:00",
+        "price": 1249.99,
+        "finalPrice": 1249.99,
+        "defaultLocalMoneyValue": 866.24,
+        "defaultValueForMoney": 0.693,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-14T00:00:00",
+        "price": 1099.99,
+        "finalPrice": 1099.99,
+        "defaultLocalMoneyValue": 890.99,
+        "defaultValueForMoney": 0.81,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-21T00:00:00",
+        "price": 1249.99,
+        "finalPrice": 1249.99,
+        "defaultLocalMoneyValue": 861.24,
+        "defaultValueForMoney": 0.689,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-28T00:00:00",
+        "price": 1099.99,
+        "finalPrice": 1099.99,
+        "defaultLocalMoneyValue": 861.29,
+        "defaultValueForMoney": 0.783,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-05T00:00:00",
+        "price": 1099,
+        "finalPrice": 1099,
+        "defaultLocalMoneyValue": 847.33,
+        "defaultValueForMoney": 0.771,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-12T00:00:00",
+        "price": 1099,
+        "finalPrice": 1099,
+        "defaultLocalMoneyValue": 847.33,
+        "defaultValueForMoney": 0.771,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-19T00:00:00",
+        "price": 1099,
+        "finalPrice": 1099,
+        "defaultLocalMoneyValue": 847.33,
+        "defaultValueForMoney": 0.771,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-26T00:00:00",
+        "price": 1099.99,
+        "finalPrice": 1099.99,
+        "defaultLocalMoneyValue": 848.09,
+        "defaultValueForMoney": 0.771,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-02T00:00:00",
+        "price": 1299.9,
+        "finalPrice": 1299.9,
+        "defaultLocalMoneyValue": 890.43,
+        "defaultValueForMoney": 0.685,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-09T00:00:00",
+        "price": 1299.9,
+        "finalPrice": 1299.9,
+        "defaultLocalMoneyValue": 860.53,
+        "defaultValueForMoney": 0.662,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-16T00:00:00",
+        "price": 1299.9,
+        "finalPrice": 1299.9,
+        "defaultLocalMoneyValue": 890.43,
+        "defaultValueForMoney": 0.685,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-23T00:00:00",
+        "price": 1299.9,
+        "finalPrice": 1299.9,
+        "defaultLocalMoneyValue": 890.43,
+        "defaultValueForMoney": 0.685,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-30T00:00:00",
+        "price": 1249,
+        "finalPrice": 1249,
+        "defaultLocalMoneyValue": 881.79,
+        "defaultValueForMoney": 0.706,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-07T00:00:00",
+        "price": 1249,
+        "finalPrice": 1249,
+        "defaultLocalMoneyValue": 881.79,
+        "defaultValueForMoney": 0.706,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-14T00:00:00",
+        "price": 1289.99,
+        "finalPrice": 1289.99,
+        "defaultLocalMoneyValue": 878.48,
+        "defaultValueForMoney": 0.681,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-21T00:00:00",
+        "price": 1289.99,
+        "finalPrice": 1289.99,
+        "defaultLocalMoneyValue": 878.48,
+        "defaultValueForMoney": 0.681,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-28T00:00:00",
+        "price": 1299.9,
+        "finalPrice": 1299.9,
+        "defaultLocalMoneyValue": 890.43,
+        "defaultValueForMoney": 0.685,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-04T00:00:00",
+        "price": 1149.2,
+        "finalPrice": 1149.2,
+        "defaultLocalMoneyValue": 891.78,
+        "defaultValueForMoney": 0.776,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-11T00:00:00",
+        "price": 1149.99,
+        "finalPrice": 1149.99,
+        "defaultLocalMoneyValue": 891.24,
+        "defaultValueForMoney": 0.775,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-18T00:00:00",
+        "price": 1149.2,
+        "finalPrice": 1149.2,
+        "defaultLocalMoneyValue": 891.78,
+        "defaultValueForMoney": 0.776,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-25T00:00:00",
+        "price": 1149.2,
+        "finalPrice": 1149.2,
+        "defaultLocalMoneyValue": 891.78,
+        "defaultValueForMoney": 0.776,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-01T00:00:00",
+        "price": 1235,
+        "finalPrice": 1235,
+        "defaultLocalMoneyValue": 881.79,
+        "defaultValueForMoney": 0.714,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-08T00:00:00",
+        "price": 1235,
+        "finalPrice": 1235,
+        "defaultLocalMoneyValue": 881.79,
+        "defaultValueForMoney": 0.714,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-15T00:00:00",
+        "price": 1199.9,
+        "finalPrice": 1199.9,
+        "defaultLocalMoneyValue": 881.93,
+        "defaultValueForMoney": 0.735,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-22T00:00:00",
+        "price": 1199.9,
+        "finalPrice": 1199.9,
+        "defaultLocalMoneyValue": 881.93,
+        "defaultValueForMoney": 0.735,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-29T00:00:00",
+        "price": 1199.9,
+        "finalPrice": 1199.9,
+        "defaultLocalMoneyValue": 881.93,
+        "defaultValueForMoney": 0.735,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-06T00:00:00",
+        "price": 1199.99,
+        "finalPrice": 1199.99,
+        "defaultLocalMoneyValue": 891.59,
+        "defaultValueForMoney": 0.743,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-13T00:00:00",
+        "price": 1186.55,
+        "finalPrice": 1186.55,
+        "defaultLocalMoneyValue": 881.61,
+        "defaultValueForMoney": 0.743,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-20T00:00:00",
+        "price": 1176.1,
+        "finalPrice": 1176.1,
+        "defaultLocalMoneyValue": 882.08,
+        "defaultValueForMoney": 0.75,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-27T00:00:00",
+        "price": 1147.6,
+        "finalPrice": 1147.6,
+        "defaultLocalMoneyValue": 882.5,
+        "defaultValueForMoney": 0.769,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-03T00:00:00",
+        "price": 1129.9,
+        "finalPrice": 1129.9,
+        "defaultLocalMoneyValue": 891.49,
+        "defaultValueForMoney": 0.789,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-10T00:00:00",
+        "price": 1129.9,
+        "finalPrice": 1129.9,
+        "defaultLocalMoneyValue": 891.49,
+        "defaultValueForMoney": 0.789,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-17T00:00:00",
+        "price": 1129.9,
+        "finalPrice": 1129.9,
+        "defaultLocalMoneyValue": 891.49,
+        "defaultValueForMoney": 0.789,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-24T00:00:00",
+        "price": 1106.1,
+        "finalPrice": 1106.1,
+        "defaultLocalMoneyValue": 881.56,
+        "defaultValueForMoney": 0.797,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-01T00:00:00",
+        "price": 1149.5,
+        "finalPrice": 1149.5,
+        "defaultLocalMoneyValue": 881.67,
+        "defaultValueForMoney": 0.767,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-08T00:00:00",
+        "price": 1134,
+        "finalPrice": 1134,
+        "defaultLocalMoneyValue": 882.25,
+        "defaultValueForMoney": 0.778,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-15T00:00:00",
+        "price": 1179,
+        "finalPrice": 1179,
+        "defaultLocalMoneyValue": 881.89,
+        "defaultValueForMoney": 0.748,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-22T00:00:00",
+        "price": 1108.7,
+        "finalPrice": 1108.7,
+        "defaultLocalMoneyValue": 891.39,
+        "defaultValueForMoney": 0.804,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-29T00:00:00",
+        "price": 1108.7,
+        "finalPrice": 1108.7,
+        "defaultLocalMoneyValue": 891.39,
+        "defaultValueForMoney": 0.804,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-05T00:00:00",
+        "price": 1108.7,
+        "finalPrice": 1108.7,
+        "defaultLocalMoneyValue": 891.39,
+        "defaultValueForMoney": 0.804,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-12T00:00:00",
+        "price": 1121.9,
+        "finalPrice": 1121.9,
+        "defaultLocalMoneyValue": 891.91,
+        "defaultValueForMoney": 0.795,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-19T00:00:00",
+        "price": 1199.9,
+        "finalPrice": 1199.9,
+        "defaultLocalMoneyValue": 881.93,
+        "defaultValueForMoney": 0.735,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-26T00:00:00",
+        "price": 1251.84,
+        "finalPrice": 1251.84,
+        "defaultLocalMoneyValue": 891.31,
+        "defaultValueForMoney": 0.712,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-02T00:00:00",
+        "price": 1249.9,
+        "finalPrice": 1249.9,
+        "defaultLocalMoneyValue": 889.93,
+        "defaultValueForMoney": 0.712,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-09T00:00:00",
+        "price": 1196.62,
+        "finalPrice": 1196.62,
+        "defaultLocalMoneyValue": 891.48,
+        "defaultValueForMoney": 0.745,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-16T00:00:00",
+        "price": 1196.62,
+        "finalPrice": 1196.62,
+        "defaultLocalMoneyValue": 891.48,
+        "defaultValueForMoney": 0.745,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-23T00:00:00",
+        "price": 1196.62,
+        "finalPrice": 1196.62,
+        "defaultLocalMoneyValue": 891.48,
+        "defaultValueForMoney": 0.745,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-03-02T00:00:00",
+        "price": 1160.1,
+        "finalPrice": 1160.1,
+        "defaultLocalMoneyValue": 881.68,
+        "defaultValueForMoney": 0.76,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-03-09T00:00:00",
+        "price": 1160.1,
+        "finalPrice": 1160.1,
+        "defaultLocalMoneyValue": 881.68,
+        "defaultValueForMoney": 0.76,
+        "installmentMonths": null
+      }
+    ]
+  },
+  {
+    "merchantName": null,
+    "productDescription": "RTX 2060 12 GB",
+    "productPopularityScore": 28,
+    "priceHistory": [
+      {
+        "date": "2025-07-28T00:00:00",
+        "price": 1476,
+        "finalPrice": 1476,
+        "defaultLocalMoneyValue": 1369.73,
+        "defaultValueForMoney": 0.928,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-04T00:00:00",
+        "price": 1404,
+        "finalPrice": 1404,
+        "defaultLocalMoneyValue": 1370.3,
+        "defaultValueForMoney": 0.976,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-11T00:00:00",
+        "price": 1404,
+        "finalPrice": 1404,
+        "defaultLocalMoneyValue": 1370.3,
+        "defaultValueForMoney": 0.976,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-18T00:00:00",
+        "price": 1404,
+        "finalPrice": 1404,
+        "defaultLocalMoneyValue": 1370.3,
+        "defaultValueForMoney": 0.976,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-25T00:00:00",
+        "price": 1422,
+        "finalPrice": 1422,
+        "defaultLocalMoneyValue": 1370.81,
+        "defaultValueForMoney": 0.964,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-01T00:00:00",
+        "price": 1440,
+        "finalPrice": 1440,
+        "defaultLocalMoneyValue": 1370.88,
+        "defaultValueForMoney": 0.952,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-08T00:00:00",
+        "price": 1494,
+        "finalPrice": 1494,
+        "defaultLocalMoneyValue": 1370,
+        "defaultValueForMoney": 0.917,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-15T00:00:00",
+        "price": 1494,
+        "finalPrice": 1494,
+        "defaultLocalMoneyValue": 1370,
+        "defaultValueForMoney": 0.917,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-22T00:00:00",
+        "price": 1494,
+        "finalPrice": 1494,
+        "defaultLocalMoneyValue": 1370,
+        "defaultValueForMoney": 0.917,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-29T00:00:00",
+        "price": 1529.99,
+        "finalPrice": 1529.99,
+        "defaultLocalMoneyValue": 1370.87,
+        "defaultValueForMoney": 0.896,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-06T00:00:00",
+        "price": 1529.99,
+        "finalPrice": 1529.99,
+        "defaultLocalMoneyValue": 1370.87,
+        "defaultValueForMoney": 0.896,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-13T00:00:00",
+        "price": 1529.99,
+        "finalPrice": 1529.99,
+        "defaultLocalMoneyValue": 1370.87,
+        "defaultValueForMoney": 0.896,
+        "installmentMonths": null
+      }
+    ]
+  },
+  {
+    "merchantName": null,
+    "productDescription": "RTX 3060 12 GB",
+    "productPopularityScore": 92,
+    "priceHistory": [
+      {
+        "date": "2025-03-31T00:00:00",
+        "price": 1799,
+        "finalPrice": 1799,
+        "defaultLocalMoneyValue": 1563.33,
+        "defaultValueForMoney": 0.869,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-07T00:00:00",
+        "price": 2113.75,
+        "finalPrice": 2113.75,
+        "defaultLocalMoneyValue": 1564.18,
+        "defaultValueForMoney": 0.74,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-14T00:00:00",
+        "price": 2049.9,
+        "finalPrice": 2049.9,
+        "defaultLocalMoneyValue": 1564.07,
+        "defaultValueForMoney": 0.763,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-21T00:00:00",
+        "price": 2113.75,
+        "finalPrice": 2113.75,
+        "defaultLocalMoneyValue": 1564.18,
+        "defaultValueForMoney": 0.74,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-28T00:00:00",
+        "price": 1898.99,
+        "finalPrice": 1898.99,
+        "defaultLocalMoneyValue": 1604.65,
+        "defaultValueForMoney": 0.845,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-05T00:00:00",
+        "price": 1933.25,
+        "finalPrice": 1933.25,
+        "defaultLocalMoneyValue": 1604.6,
+        "defaultValueForMoney": 0.83,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-12T00:00:00",
+        "price": 2065.06,
+        "finalPrice": 2065.06,
+        "defaultLocalMoneyValue": 1604.55,
+        "defaultValueForMoney": 0.777,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-19T00:00:00",
+        "price": 2021,
+        "finalPrice": 2021,
+        "defaultLocalMoneyValue": 1604.67,
+        "defaultValueForMoney": 0.794,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-26T00:00:00",
+        "price": 2149.9,
+        "finalPrice": 2149.9,
+        "defaultLocalMoneyValue": 1528.58,
+        "defaultValueForMoney": 0.711,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-02T00:00:00",
+        "price": 1959,
+        "finalPrice": 1959,
+        "defaultLocalMoneyValue": 1573.08,
+        "defaultValueForMoney": 0.803,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-09T00:00:00",
+        "price": 2099.9,
+        "finalPrice": 2099.9,
+        "defaultLocalMoneyValue": 1600.12,
+        "defaultValueForMoney": 0.762,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-16T00:00:00",
+        "price": 1899.9,
+        "finalPrice": 1899.9,
+        "defaultLocalMoneyValue": 1563.62,
+        "defaultValueForMoney": 0.823,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-23T00:00:00",
+        "price": 1999.9,
+        "finalPrice": 1999.9,
+        "defaultLocalMoneyValue": 1603.92,
+        "defaultValueForMoney": 0.802,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-30T00:00:00",
+        "price": 1899.9,
+        "finalPrice": 1899.9,
+        "defaultLocalMoneyValue": 1588.32,
+        "defaultValueForMoney": 0.836,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-07T00:00:00",
+        "price": 1999,
+        "finalPrice": 1999,
+        "defaultLocalMoneyValue": 1529.24,
+        "defaultValueForMoney": 0.765,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-14T00:00:00",
+        "price": 1961.28,
+        "finalPrice": 1961.28,
+        "defaultLocalMoneyValue": 1529.8,
+        "defaultValueForMoney": 0.78,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-21T00:00:00",
+        "price": 1898.99,
+        "finalPrice": 1898.99,
+        "defaultLocalMoneyValue": 1528.69,
+        "defaultValueForMoney": 0.805,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-28T00:00:00",
+        "price": 1699.9,
+        "finalPrice": 1699.9,
+        "defaultLocalMoneyValue": 1478.91,
+        "defaultValueForMoney": 0.87,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-04T00:00:00",
+        "price": 1699,
+        "finalPrice": 1699,
+        "defaultLocalMoneyValue": 1529.1,
+        "defaultValueForMoney": 0.9,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-11T00:00:00",
+        "price": 1699,
+        "finalPrice": 1699,
+        "defaultLocalMoneyValue": 1529.1,
+        "defaultValueForMoney": 0.9,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-18T00:00:00",
+        "price": 1699,
+        "finalPrice": 1699,
+        "defaultLocalMoneyValue": 1529.1,
+        "defaultValueForMoney": 0.9,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-25T00:00:00",
+        "price": 1849.89,
+        "finalPrice": 1849.89,
+        "defaultLocalMoneyValue": 1529.86,
+        "defaultValueForMoney": 0.827,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-01T00:00:00",
+        "price": 1846.53,
+        "finalPrice": 1846.53,
+        "defaultLocalMoneyValue": 1580.63,
+        "defaultValueForMoney": 0.856,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-08T00:00:00",
+        "price": 1649.9,
+        "finalPrice": 1649.9,
+        "defaultLocalMoneyValue": 1479.96,
+        "defaultValueForMoney": 0.897,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-15T00:00:00",
+        "price": 1649.9,
+        "finalPrice": 1649.9,
+        "defaultLocalMoneyValue": 1479.96,
+        "defaultValueForMoney": 0.897,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-22T00:00:00",
+        "price": 1758.99,
+        "finalPrice": 1758.99,
+        "defaultLocalMoneyValue": 1528.56,
+        "defaultValueForMoney": 0.869,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-29T00:00:00",
+        "price": 1758.99,
+        "finalPrice": 1758.99,
+        "defaultLocalMoneyValue": 1528.56,
+        "defaultValueForMoney": 0.869,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-06T00:00:00",
+        "price": 1699.9,
+        "finalPrice": 1699.9,
+        "defaultLocalMoneyValue": 1597.91,
+        "defaultValueForMoney": 0.94,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-13T00:00:00",
+        "price": 1699.9,
+        "finalPrice": 1699.9,
+        "defaultLocalMoneyValue": 1597.91,
+        "defaultValueForMoney": 0.94,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-20T00:00:00",
+        "price": 1699.9,
+        "finalPrice": 1699.9,
+        "defaultLocalMoneyValue": 1597.91,
+        "defaultValueForMoney": 0.94,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-27T00:00:00",
+        "price": 1699.9,
+        "finalPrice": 1699.9,
+        "defaultLocalMoneyValue": 1597.91,
+        "defaultValueForMoney": 0.94,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-03T00:00:00",
+        "price": 1799,
+        "finalPrice": 1799,
+        "defaultLocalMoneyValue": 1539.94,
+        "defaultValueForMoney": 0.856,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-10T00:00:00",
+        "price": 1799,
+        "finalPrice": 1799,
+        "defaultLocalMoneyValue": 1539.94,
+        "defaultValueForMoney": 0.856,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-17T00:00:00",
+        "price": 1799,
+        "finalPrice": 1799,
+        "defaultLocalMoneyValue": 1539.94,
+        "defaultValueForMoney": 0.856,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-24T00:00:00",
+        "price": 1790.1,
+        "finalPrice": 1790.1,
+        "defaultLocalMoneyValue": 1603.93,
+        "defaultValueForMoney": 0.896,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-01T00:00:00",
+        "price": 1799.9,
+        "finalPrice": 1799.9,
+        "defaultLocalMoneyValue": 1538.91,
+        "defaultValueForMoney": 0.855,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-08T00:00:00",
+        "price": 1799.9,
+        "finalPrice": 1799.9,
+        "defaultLocalMoneyValue": 1538.91,
+        "defaultValueForMoney": 0.855,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-15T00:00:00",
+        "price": 1799.9,
+        "finalPrice": 1799.9,
+        "defaultLocalMoneyValue": 1538.91,
+        "defaultValueForMoney": 0.855,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-22T00:00:00",
+        "price": 1799.9,
+        "finalPrice": 1799.9,
+        "defaultLocalMoneyValue": 1538.91,
+        "defaultValueForMoney": 0.855,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-29T00:00:00",
+        "price": 1799.9,
+        "finalPrice": 1799.9,
+        "defaultLocalMoneyValue": 1538.91,
+        "defaultValueForMoney": 0.855,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-05T00:00:00",
+        "price": 1784.23,
+        "finalPrice": 1784.23,
+        "defaultLocalMoneyValue": 1604.02,
+        "defaultValueForMoney": 0.899,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-12T00:00:00",
+        "price": 1799.9,
+        "finalPrice": 1799.9,
+        "defaultLocalMoneyValue": 1538.91,
+        "defaultValueForMoney": 0.855,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-19T00:00:00",
+        "price": 1999.99,
+        "finalPrice": 1999.99,
+        "defaultLocalMoneyValue": 1599.99,
+        "defaultValueForMoney": 0.8,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-26T00:00:00",
+        "price": 1999.99,
+        "finalPrice": 1999.99,
+        "defaultLocalMoneyValue": 1599.99,
+        "defaultValueForMoney": 0.8,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-02T00:00:00",
+        "price": 2099.99,
+        "finalPrice": 2099.99,
+        "defaultLocalMoneyValue": 1577.09,
+        "defaultValueForMoney": 0.751,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-09T00:00:00",
+        "price": 2149.68,
+        "finalPrice": 2149.68,
+        "defaultLocalMoneyValue": 1603.66,
+        "defaultValueForMoney": 0.746,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-16T00:00:00",
+        "price": 2149.68,
+        "finalPrice": 2149.68,
+        "defaultLocalMoneyValue": 1603.66,
+        "defaultValueForMoney": 0.746,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-23T00:00:00",
+        "price": 2149.68,
+        "finalPrice": 2149.68,
+        "defaultLocalMoneyValue": 1603.66,
+        "defaultValueForMoney": 0.746,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-03-02T00:00:00",
+        "price": 2319.68,
+        "finalPrice": 2319.68,
+        "defaultLocalMoneyValue": 1605.22,
+        "defaultValueForMoney": 0.692,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-03-09T00:00:00",
+        "price": 2875.92,
+        "finalPrice": 2875.92,
+        "defaultLocalMoneyValue": 1561.62,
+        "defaultValueForMoney": 0.543,
+        "installmentMonths": null
+      }
+    ]
+  },
+  {
+    "merchantName": null,
+    "productDescription": "RTX 5050",
+    "productPopularityScore": 250,
+    "priceHistory": [
+      {
+        "date": "2025-06-30T00:00:00",
+        "price": 2149.99,
+        "finalPrice": 2149.99,
+        "defaultLocalMoneyValue": 1674.84,
+        "defaultValueForMoney": 0.779,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-07T00:00:00",
+        "price": 2149.99,
+        "finalPrice": 2149.99,
+        "defaultLocalMoneyValue": 1674.84,
+        "defaultValueForMoney": 0.779,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-14T00:00:00",
+        "price": 2149.99,
+        "finalPrice": 2149.99,
+        "defaultLocalMoneyValue": 1674.84,
+        "defaultValueForMoney": 0.779,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-21T00:00:00",
+        "price": 2149.99,
+        "finalPrice": 2149.99,
+        "defaultLocalMoneyValue": 1674.84,
+        "defaultValueForMoney": 0.779,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-28T00:00:00",
+        "price": 2099.99,
+        "finalPrice": 2099.99,
+        "defaultLocalMoneyValue": 1673.69,
+        "defaultValueForMoney": 0.797,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-04T00:00:00",
+        "price": 1989.9,
+        "finalPrice": 1989.9,
+        "defaultLocalMoneyValue": 1729.22,
+        "defaultValueForMoney": 0.869,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-11T00:00:00",
+        "price": 1959.99,
+        "finalPrice": 1959.99,
+        "defaultLocalMoneyValue": 1728.71,
+        "defaultValueForMoney": 0.882,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-18T00:00:00",
+        "price": 1959.9,
+        "finalPrice": 1959.9,
+        "defaultLocalMoneyValue": 1728.63,
+        "defaultValueForMoney": 0.882,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-25T00:00:00",
+        "price": 1898.99,
+        "finalPrice": 1898.99,
+        "defaultLocalMoneyValue": 1712.89,
+        "defaultValueForMoney": 0.902,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-01T00:00:00",
+        "price": 1898.99,
+        "finalPrice": 1898.99,
+        "defaultLocalMoneyValue": 1712.89,
+        "defaultValueForMoney": 0.902,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-08T00:00:00",
+        "price": 1868.64,
+        "finalPrice": 1868.64,
+        "defaultLocalMoneyValue": 1713.54,
+        "defaultValueForMoney": 0.917,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-15T00:00:00",
+        "price": 1801.1,
+        "finalPrice": 1801.1,
+        "defaultLocalMoneyValue": 1714.65,
+        "defaultValueForMoney": 0.952,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-22T00:00:00",
+        "price": 1801.1,
+        "finalPrice": 1801.1,
+        "defaultLocalMoneyValue": 1714.65,
+        "defaultValueForMoney": 0.952,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-29T00:00:00",
+        "price": 1789.99,
+        "finalPrice": 1789.99,
+        "defaultLocalMoneyValue": 1673.64,
+        "defaultValueForMoney": 0.935,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-06T00:00:00",
+        "price": 1699.99,
+        "finalPrice": 1699.99,
+        "defaultLocalMoneyValue": 1674.49,
+        "defaultValueForMoney": 0.985,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-13T00:00:00",
+        "price": 1699.99,
+        "finalPrice": 1699.99,
+        "defaultLocalMoneyValue": 1674.49,
+        "defaultValueForMoney": 0.985,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-20T00:00:00",
+        "price": 1759.99,
+        "finalPrice": 1759.99,
+        "defaultLocalMoneyValue": 1673.75,
+        "defaultValueForMoney": 0.951,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-27T00:00:00",
+        "price": 1699.99,
+        "finalPrice": 1699.99,
+        "defaultLocalMoneyValue": 1713.59,
+        "defaultValueForMoney": 1.008,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-03T00:00:00",
+        "price": 1756.07,
+        "finalPrice": 1756.07,
+        "defaultLocalMoneyValue": 1713.92,
+        "defaultValueForMoney": 0.976,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-10T00:00:00",
+        "price": 1699.99,
+        "finalPrice": 1699.99,
+        "defaultLocalMoneyValue": 1659.19,
+        "defaultValueForMoney": 0.976,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-17T00:00:00",
+        "price": 1699.99,
+        "finalPrice": 1699.99,
+        "defaultLocalMoneyValue": 1659.19,
+        "defaultValueForMoney": 0.976,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-24T00:00:00",
+        "price": 1688.53,
+        "finalPrice": 1688.53,
+        "defaultLocalMoneyValue": 1713.86,
+        "defaultValueForMoney": 1.015,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-01T00:00:00",
+        "price": 1688.53,
+        "finalPrice": 1688.53,
+        "defaultLocalMoneyValue": 1713.86,
+        "defaultValueForMoney": 1.015,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-08T00:00:00",
+        "price": 1739.99,
+        "finalPrice": 1739.99,
+        "defaultLocalMoneyValue": 1673.87,
+        "defaultValueForMoney": 0.962,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-15T00:00:00",
+        "price": 1778.59,
+        "finalPrice": 1778.59,
+        "defaultLocalMoneyValue": 1714.56,
+        "defaultValueForMoney": 0.964,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-22T00:00:00",
+        "price": 1698.3,
+        "finalPrice": 1698.3,
+        "defaultLocalMoneyValue": 1718.68,
+        "defaultValueForMoney": 1.012,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-29T00:00:00",
+        "price": 1764.28,
+        "finalPrice": 1764.28,
+        "defaultLocalMoneyValue": 1713.12,
+        "defaultValueForMoney": 0.971,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-05T00:00:00",
+        "price": 1742.23,
+        "finalPrice": 1742.23,
+        "defaultLocalMoneyValue": 1714.35,
+        "defaultValueForMoney": 0.984,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-12T00:00:00",
+        "price": 1759.9,
+        "finalPrice": 1759.9,
+        "defaultLocalMoneyValue": 1693.02,
+        "defaultValueForMoney": 0.962,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-19T00:00:00",
+        "price": 1759.9,
+        "finalPrice": 1759.9,
+        "defaultLocalMoneyValue": 1693.02,
+        "defaultValueForMoney": 0.962,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-26T00:00:00",
+        "price": 1659.99,
+        "finalPrice": 1659.99,
+        "defaultLocalMoneyValue": 1693.19,
+        "defaultValueForMoney": 1.02,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-02T00:00:00",
+        "price": 1659.99,
+        "finalPrice": 1659.99,
+        "defaultLocalMoneyValue": 1693.19,
+        "defaultValueForMoney": 1.02,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-09T00:00:00",
+        "price": 1699.99,
+        "finalPrice": 1699.99,
+        "defaultLocalMoneyValue": 1672.79,
+        "defaultValueForMoney": 0.984,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-16T00:00:00",
+        "price": 1699.99,
+        "finalPrice": 1699.99,
+        "defaultLocalMoneyValue": 1672.79,
+        "defaultValueForMoney": 0.984,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-23T00:00:00",
+        "price": 1699.99,
+        "finalPrice": 1699.99,
+        "defaultLocalMoneyValue": 1672.79,
+        "defaultValueForMoney": 0.984,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-03-02T00:00:00",
+        "price": 1699.99,
+        "finalPrice": 1699.99,
+        "defaultLocalMoneyValue": 1672.79,
+        "defaultValueForMoney": 0.984,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-03-09T00:00:00",
+        "price": 1799.99,
+        "finalPrice": 1799.99,
+        "defaultLocalMoneyValue": 1693.79,
+        "defaultValueForMoney": 0.941,
+        "installmentMonths": null
+      }
+    ]
+  },
+  {
+    "merchantName": null,
+    "productDescription": "RTX 4060",
+    "productPopularityScore": 97,
+    "priceHistory": [
+      {
+        "date": "2025-03-31T00:00:00",
+        "price": 2044.445,
+        "finalPrice": 2044.445,
+        "defaultLocalMoneyValue": 1795.02,
+        "defaultValueForMoney": 0.878,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-07T00:00:00",
+        "price": 1999,
+        "finalPrice": 1999,
+        "defaultLocalMoneyValue": 1791.1,
+        "defaultValueForMoney": 0.896,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-14T00:00:00",
+        "price": 1999,
+        "finalPrice": 1999,
+        "defaultLocalMoneyValue": 1791.1,
+        "defaultValueForMoney": 0.896,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-21T00:00:00",
+        "price": 1999,
+        "finalPrice": 1999,
+        "defaultLocalMoneyValue": 1791.1,
+        "defaultValueForMoney": 0.896,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-28T00:00:00",
+        "price": 2099.99,
+        "finalPrice": 2099.99,
+        "defaultLocalMoneyValue": 1797.59,
+        "defaultValueForMoney": 0.856,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-05T00:00:00",
+        "price": 2088.99,
+        "finalPrice": 2088.99,
+        "defaultLocalMoneyValue": 1790.26,
+        "defaultValueForMoney": 0.857,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-12T00:00:00",
+        "price": 1999.99,
+        "finalPrice": 1999.99,
+        "defaultLocalMoneyValue": 1751.99,
+        "defaultValueForMoney": 0.876,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-19T00:00:00",
+        "price": 2129,
+        "finalPrice": 2129,
+        "defaultLocalMoneyValue": 1792.62,
+        "defaultValueForMoney": 0.842,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-26T00:00:00",
+        "price": 2099.99,
+        "finalPrice": 2099.99,
+        "defaultLocalMoneyValue": 1791.29,
+        "defaultValueForMoney": 0.853,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-02T00:00:00",
+        "price": 2108.31,
+        "finalPrice": 2108.31,
+        "defaultLocalMoneyValue": 1817.36,
+        "defaultValueForMoney": 0.862,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-09T00:00:00",
+        "price": 2129.9,
+        "finalPrice": 2129.9,
+        "defaultLocalMoneyValue": 1816.8,
+        "defaultValueForMoney": 0.853,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-16T00:00:00",
+        "price": 2198.99,
+        "finalPrice": 2198.99,
+        "defaultLocalMoneyValue": 1818.56,
+        "defaultValueForMoney": 0.827,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-23T00:00:00",
+        "price": 2198.99,
+        "finalPrice": 2198.99,
+        "defaultLocalMoneyValue": 1818.56,
+        "defaultValueForMoney": 0.827,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-30T00:00:00",
+        "price": 2099,
+        "finalPrice": 2099,
+        "defaultLocalMoneyValue": 1790.45,
+        "defaultValueForMoney": 0.853,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-07T00:00:00",
+        "price": 2099,
+        "finalPrice": 2099,
+        "defaultLocalMoneyValue": 1790.45,
+        "defaultValueForMoney": 0.853,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-14T00:00:00",
+        "price": 2099,
+        "finalPrice": 2099,
+        "defaultLocalMoneyValue": 1790.45,
+        "defaultValueForMoney": 0.853,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-21T00:00:00",
+        "price": 1898.99,
+        "finalPrice": 1898.99,
+        "defaultLocalMoneyValue": 1688.2,
+        "defaultValueForMoney": 0.889,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-28T00:00:00",
+        "price": 2099,
+        "finalPrice": 2099,
+        "defaultLocalMoneyValue": 1790.45,
+        "defaultValueForMoney": 0.853,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-04T00:00:00",
+        "price": 2099,
+        "finalPrice": 2099,
+        "defaultLocalMoneyValue": 1817.73,
+        "defaultValueForMoney": 0.866,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-11T00:00:00",
+        "price": 2249.9,
+        "finalPrice": 2249.9,
+        "defaultLocalMoneyValue": 1795.42,
+        "defaultValueForMoney": 0.798,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-18T00:00:00",
+        "price": 2249.9,
+        "finalPrice": 2249.9,
+        "defaultLocalMoneyValue": 1795.42,
+        "defaultValueForMoney": 0.798,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-25T00:00:00",
+        "price": 2211.21,
+        "finalPrice": 2211.21,
+        "defaultLocalMoneyValue": 1791.08,
+        "defaultValueForMoney": 0.81,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-01T00:00:00",
+        "price": 2353.9,
+        "finalPrice": 2353.9,
+        "defaultLocalMoneyValue": 1791.32,
+        "defaultValueForMoney": 0.761,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-08T00:00:00",
+        "price": 2441.5,
+        "finalPrice": 2441.5,
+        "defaultLocalMoneyValue": 1789.62,
+        "defaultValueForMoney": 0.733,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-15T00:00:00",
+        "price": 2441.5,
+        "finalPrice": 2441.5,
+        "defaultLocalMoneyValue": 1789.62,
+        "defaultValueForMoney": 0.733,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-22T00:00:00",
+        "price": 2498.5,
+        "finalPrice": 2498.5,
+        "defaultLocalMoneyValue": 1793.92,
+        "defaultValueForMoney": 0.718,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-29T00:00:00",
+        "price": 2799,
+        "finalPrice": 2799,
+        "defaultLocalMoneyValue": 1785.76,
+        "defaultValueForMoney": 0.638,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-06T00:00:00",
+        "price": 2999,
+        "finalPrice": 2999,
+        "defaultLocalMoneyValue": 1817.39,
+        "defaultValueForMoney": 0.606,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-13T00:00:00",
+        "price": 3199,
+        "finalPrice": 3199,
+        "defaultLocalMoneyValue": 1909.8,
+        "defaultValueForMoney": 0.597,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-20T00:00:00",
+        "price": 2599,
+        "finalPrice": 2599,
+        "defaultLocalMoneyValue": 1785.51,
+        "defaultValueForMoney": 0.687,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-27T00:00:00",
+        "price": 2599,
+        "finalPrice": 2599,
+        "defaultLocalMoneyValue": 1785.51,
+        "defaultValueForMoney": 0.687,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-03T00:00:00",
+        "price": 2599,
+        "finalPrice": 2599,
+        "defaultLocalMoneyValue": 1785.51,
+        "defaultValueForMoney": 0.687,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-10T00:00:00",
+        "price": 3199,
+        "finalPrice": 3199,
+        "defaultLocalMoneyValue": 1817.03,
+        "defaultValueForMoney": 0.568,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-17T00:00:00",
+        "price": 3199,
+        "finalPrice": 3199,
+        "defaultLocalMoneyValue": 1817.03,
+        "defaultValueForMoney": 0.568,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-24T00:00:00",
+        "price": 3199,
+        "finalPrice": 3199,
+        "defaultLocalMoneyValue": 1817.03,
+        "defaultValueForMoney": 0.568,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-01T00:00:00",
+        "price": 3259.87,
+        "finalPrice": 3259.87,
+        "defaultLocalMoneyValue": 1796.19,
+        "defaultValueForMoney": 0.551,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-08T00:00:00",
+        "price": 3299,
+        "finalPrice": 3299,
+        "defaultLocalMoneyValue": 1817.75,
+        "defaultValueForMoney": 0.551,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-15T00:00:00",
+        "price": 3299,
+        "finalPrice": 3299,
+        "defaultLocalMoneyValue": 1817.75,
+        "defaultValueForMoney": 0.551,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-22T00:00:00",
+        "price": 3299,
+        "finalPrice": 3299,
+        "defaultLocalMoneyValue": 1817.75,
+        "defaultValueForMoney": 0.551,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-29T00:00:00",
+        "price": 3299,
+        "finalPrice": 3299,
+        "defaultLocalMoneyValue": 1817.75,
+        "defaultValueForMoney": 0.551,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-05T00:00:00",
+        "price": 3299,
+        "finalPrice": 3299,
+        "defaultLocalMoneyValue": 1817.75,
+        "defaultValueForMoney": 0.551,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-12T00:00:00",
+        "price": 3009,
+        "finalPrice": 3009,
+        "defaultLocalMoneyValue": 1817.44,
+        "defaultValueForMoney": 0.604,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-19T00:00:00",
+        "price": 3284.35,
+        "finalPrice": 3284.35,
+        "defaultLocalMoneyValue": 1809.68,
+        "defaultValueForMoney": 0.551,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-26T00:00:00",
+        "price": 2599.99,
+        "finalPrice": 2599.99,
+        "defaultLocalMoneyValue": 1791.39,
+        "defaultValueForMoney": 0.689,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-02T00:00:00",
+        "price": 2599.99,
+        "finalPrice": 2599.99,
+        "defaultLocalMoneyValue": 1791.39,
+        "defaultValueForMoney": 0.689,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-09T00:00:00",
+        "price": 2599.99,
+        "finalPrice": 2599.99,
+        "defaultLocalMoneyValue": 1791.39,
+        "defaultValueForMoney": 0.689,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-16T00:00:00",
+        "price": 2599.99,
+        "finalPrice": 2599.99,
+        "defaultLocalMoneyValue": 1791.39,
+        "defaultValueForMoney": 0.689,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-23T00:00:00",
+        "price": 2599.99,
+        "finalPrice": 2599.99,
+        "defaultLocalMoneyValue": 1791.39,
+        "defaultValueForMoney": 0.689,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-03-02T00:00:00",
+        "price": 2599.99,
+        "finalPrice": 2599.99,
+        "defaultLocalMoneyValue": 1791.39,
+        "defaultValueForMoney": 0.689,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-03-09T00:00:00",
+        "price": 2599.99,
+        "finalPrice": 2599.99,
+        "defaultLocalMoneyValue": 1791.39,
+        "defaultValueForMoney": 0.689,
+        "installmentMonths": null
+      }
+    ]
+  },
+  {
+    "merchantName": null,
+    "productDescription": "RTX 5060",
+    "productPopularityScore": 842,
+    "priceHistory": [
+      {
+        "date": "2025-05-19T00:00:00",
+        "price": 2598.99,
+        "finalPrice": 2598.99,
+        "defaultLocalMoneyValue": 2136.37,
+        "defaultValueForMoney": 0.822,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-26T00:00:00",
+        "price": 2598.99,
+        "finalPrice": 2598.99,
+        "defaultLocalMoneyValue": 2136.37,
+        "defaultValueForMoney": 0.822,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-02T00:00:00",
+        "price": 2598.99,
+        "finalPrice": 2598.99,
+        "defaultLocalMoneyValue": 2136.37,
+        "defaultValueForMoney": 0.822,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-09T00:00:00",
+        "price": 2598.99,
+        "finalPrice": 2598.99,
+        "defaultLocalMoneyValue": 2136.37,
+        "defaultValueForMoney": 0.822,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-16T00:00:00",
+        "price": 2598.99,
+        "finalPrice": 2598.99,
+        "defaultLocalMoneyValue": 2136.37,
+        "defaultValueForMoney": 0.822,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-23T00:00:00",
+        "price": 2302.71,
+        "finalPrice": 2302.71,
+        "defaultLocalMoneyValue": 2120.8,
+        "defaultValueForMoney": 0.921,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-30T00:00:00",
+        "price": 2302.71,
+        "finalPrice": 2302.71,
+        "defaultLocalMoneyValue": 2178.36,
+        "defaultValueForMoney": 0.946,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-07T00:00:00",
+        "price": 2198.99,
+        "finalPrice": 2198.99,
+        "defaultLocalMoneyValue": 2177,
+        "defaultValueForMoney": 0.99,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-14T00:00:00",
+        "price": 2198.99,
+        "finalPrice": 2198.99,
+        "defaultLocalMoneyValue": 2177,
+        "defaultValueForMoney": 0.99,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-21T00:00:00",
+        "price": 2166.63,
+        "finalPrice": 2166.63,
+        "defaultLocalMoneyValue": 2201.3,
+        "defaultValueForMoney": 1.016,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-28T00:00:00",
+        "price": 2139.88,
+        "finalPrice": 2139.88,
+        "defaultLocalMoneyValue": 2150.58,
+        "defaultValueForMoney": 1.005,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-04T00:00:00",
+        "price": 2099,
+        "finalPrice": 2099,
+        "defaultLocalMoneyValue": 2134.68,
+        "defaultValueForMoney": 1.017,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-11T00:00:00",
+        "price": 2020,
+        "finalPrice": 2020,
+        "defaultLocalMoneyValue": 2197.76,
+        "defaultValueForMoney": 1.088,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-18T00:00:00",
+        "price": 2099,
+        "finalPrice": 2099,
+        "defaultLocalMoneyValue": 2134.68,
+        "defaultValueForMoney": 1.017,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-25T00:00:00",
+        "price": 2020,
+        "finalPrice": 2020,
+        "defaultLocalMoneyValue": 2108.88,
+        "defaultValueForMoney": 1.044,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-01T00:00:00",
+        "price": 2020,
+        "finalPrice": 2020,
+        "defaultLocalMoneyValue": 2092.72,
+        "defaultValueForMoney": 1.036,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-08T00:00:00",
+        "price": 1980.6,
+        "finalPrice": 1980.6,
+        "defaultLocalMoneyValue": 2135.09,
+        "defaultValueForMoney": 1.078,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-15T00:00:00",
+        "price": 1980.6,
+        "finalPrice": 1980.6,
+        "defaultLocalMoneyValue": 2135.09,
+        "defaultValueForMoney": 1.078,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-22T00:00:00",
+        "price": 2086.38,
+        "finalPrice": 2086.38,
+        "defaultLocalMoneyValue": 2178.18,
+        "defaultValueForMoney": 1.044,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-29T00:00:00",
+        "price": 2086.38,
+        "finalPrice": 2086.38,
+        "defaultLocalMoneyValue": 2178.18,
+        "defaultValueForMoney": 1.044,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-06T00:00:00",
+        "price": 2086.38,
+        "finalPrice": 2086.38,
+        "defaultLocalMoneyValue": 2178.18,
+        "defaultValueForMoney": 1.044,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-13T00:00:00",
+        "price": 2086.38,
+        "finalPrice": 2086.38,
+        "defaultLocalMoneyValue": 2178.18,
+        "defaultValueForMoney": 1.044,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-20T00:00:00",
+        "price": 2086.38,
+        "finalPrice": 2086.38,
+        "defaultLocalMoneyValue": 2178.18,
+        "defaultValueForMoney": 1.044,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-27T00:00:00",
+        "price": 2069.99,
+        "finalPrice": 2069.99,
+        "defaultLocalMoneyValue": 2161.07,
+        "defaultValueForMoney": 1.044,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-03T00:00:00",
+        "price": 1999.9,
+        "finalPrice": 1999.9,
+        "defaultLocalMoneyValue": 2103.89,
+        "defaultValueForMoney": 1.052,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-10T00:00:00",
+        "price": 1999,
+        "finalPrice": 1999,
+        "defaultLocalMoneyValue": 2134.93,
+        "defaultValueForMoney": 1.068,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-17T00:00:00",
+        "price": 2039,
+        "finalPrice": 2039,
+        "defaultLocalMoneyValue": 2134.83,
+        "defaultValueForMoney": 1.047,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-24T00:00:00",
+        "price": 1899.99,
+        "finalPrice": 1899.99,
+        "defaultLocalMoneyValue": 2046.29,
+        "defaultValueForMoney": 1.077,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-01T00:00:00",
+        "price": 1972.58,
+        "finalPrice": 1972.58,
+        "defaultLocalMoneyValue": 2187.59,
+        "defaultValueForMoney": 1.109,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-08T00:00:00",
+        "price": 1972.58,
+        "finalPrice": 1972.58,
+        "defaultLocalMoneyValue": 2187.59,
+        "defaultValueForMoney": 1.109,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-15T00:00:00",
+        "price": 1972.58,
+        "finalPrice": 1972.58,
+        "defaultLocalMoneyValue": 2187.59,
+        "defaultValueForMoney": 1.109,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-22T00:00:00",
+        "price": 1972.58,
+        "finalPrice": 1972.58,
+        "defaultLocalMoneyValue": 2187.59,
+        "defaultValueForMoney": 1.109,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-29T00:00:00",
+        "price": 1972.58,
+        "finalPrice": 1972.58,
+        "defaultLocalMoneyValue": 2187.59,
+        "defaultValueForMoney": 1.109,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-05T00:00:00",
+        "price": 2079.9,
+        "finalPrice": 2079.9,
+        "defaultLocalMoneyValue": 2092.38,
+        "defaultValueForMoney": 1.006,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-12T00:00:00",
+        "price": 2199.9,
+        "finalPrice": 2199.9,
+        "defaultLocalMoneyValue": 2054.71,
+        "defaultValueForMoney": 0.934,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-19T00:00:00",
+        "price": 2089.99,
+        "finalPrice": 2089.99,
+        "defaultLocalMoneyValue": 2046.1,
+        "defaultValueForMoney": 0.979,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-26T00:00:00",
+        "price": 2299.9,
+        "finalPrice": 2299.9,
+        "defaultLocalMoneyValue": 2037.71,
+        "defaultValueForMoney": 0.886,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-02T00:00:00",
+        "price": 2219.9,
+        "finalPrice": 2219.9,
+        "defaultLocalMoneyValue": 2153.3,
+        "defaultValueForMoney": 0.97,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-09T00:00:00",
+        "price": 2299.99,
+        "finalPrice": 2299.99,
+        "defaultLocalMoneyValue": 2046.99,
+        "defaultValueForMoney": 0.89,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-16T00:00:00",
+        "price": 2279.99,
+        "finalPrice": 2279.99,
+        "defaultLocalMoneyValue": 2111.27,
+        "defaultValueForMoney": 0.926,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-23T00:00:00",
+        "price": 2199.99,
+        "finalPrice": 2199.99,
+        "defaultLocalMoneyValue": 2045.99,
+        "defaultValueForMoney": 0.93,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-03-02T00:00:00",
+        "price": 2279.99,
+        "finalPrice": 2279.99,
+        "defaultLocalMoneyValue": 2129.51,
+        "defaultValueForMoney": 0.934,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-03-09T00:00:00",
+        "price": 2285.1,
+        "finalPrice": 2285.1,
+        "defaultLocalMoneyValue": 2134.28,
+        "defaultValueForMoney": 0.934,
+        "installmentMonths": null
+      }
+    ]
+  },
+  {
+    "merchantName": null,
+    "productDescription": "RTX 3070",
+    "productPopularityScore": 17,
+    "priceHistory": [
+      {
+        "date": "2025-03-31T00:00:00",
+        "price": 8522.99,
+        "finalPrice": 8522.99,
+        "defaultLocalMoneyValue": 2514.28,
+        "defaultValueForMoney": 0.295,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-07T00:00:00",
+        "price": 4800,
+        "finalPrice": 4800,
+        "defaultLocalMoneyValue": 2179.2,
+        "defaultValueForMoney": 0.454,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-14T00:00:00",
+        "price": 4800,
+        "finalPrice": 4800,
+        "defaultLocalMoneyValue": 2179.2,
+        "defaultValueForMoney": 0.454,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-21T00:00:00",
+        "price": 4800,
+        "finalPrice": 4800,
+        "defaultLocalMoneyValue": 2179.2,
+        "defaultValueForMoney": 0.454,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-28T00:00:00",
+        "price": 4800,
+        "finalPrice": 4800,
+        "defaultLocalMoneyValue": 2179.2,
+        "defaultValueForMoney": 0.454,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-05T00:00:00",
+        "price": 4800,
+        "finalPrice": 4800,
+        "defaultLocalMoneyValue": 2179.2,
+        "defaultValueForMoney": 0.454,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-12T00:00:00",
+        "price": 4800,
+        "finalPrice": 4800,
+        "defaultLocalMoneyValue": 2179.2,
+        "defaultValueForMoney": 0.454,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-19T00:00:00",
+        "price": 4800,
+        "finalPrice": 4800,
+        "defaultLocalMoneyValue": 2179.2,
+        "defaultValueForMoney": 0.454,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-26T00:00:00",
+        "price": 4800,
+        "finalPrice": 4800,
+        "defaultLocalMoneyValue": 2179.2,
+        "defaultValueForMoney": 0.454,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-02T00:00:00",
+        "price": 4800,
+        "finalPrice": 4800,
+        "defaultLocalMoneyValue": 2179.2,
+        "defaultValueForMoney": 0.454,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-09T00:00:00",
+        "price": 4800,
+        "finalPrice": 4800,
+        "defaultLocalMoneyValue": 2179.2,
+        "defaultValueForMoney": 0.454,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-16T00:00:00",
+        "price": 4229.1,
+        "finalPrice": 4229.1,
+        "defaultLocalMoneyValue": 2296.4,
+        "defaultValueForMoney": 0.543,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-23T00:00:00",
+        "price": 4229.1,
+        "finalPrice": 4229.1,
+        "defaultLocalMoneyValue": 2296.4,
+        "defaultValueForMoney": 0.543,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-30T00:00:00",
+        "price": 4229.1,
+        "finalPrice": 4229.1,
+        "defaultLocalMoneyValue": 2296.4,
+        "defaultValueForMoney": 0.543,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-07T00:00:00",
+        "price": 4229.1,
+        "finalPrice": 4229.1,
+        "defaultLocalMoneyValue": 2296.4,
+        "defaultValueForMoney": 0.543,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-14T00:00:00",
+        "price": 4229.1,
+        "finalPrice": 4229.1,
+        "defaultLocalMoneyValue": 2296.4,
+        "defaultValueForMoney": 0.543,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-21T00:00:00",
+        "price": 4229.1,
+        "finalPrice": 4229.1,
+        "defaultLocalMoneyValue": 2296.4,
+        "defaultValueForMoney": 0.543,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-28T00:00:00",
+        "price": 4229.1,
+        "finalPrice": 4229.1,
+        "defaultLocalMoneyValue": 2296.4,
+        "defaultValueForMoney": 0.543,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-04T00:00:00",
+        "price": 4229.1,
+        "finalPrice": 4229.1,
+        "defaultLocalMoneyValue": 2296.4,
+        "defaultValueForMoney": 0.543,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-11T00:00:00",
+        "price": 4229.1,
+        "finalPrice": 4229.1,
+        "defaultLocalMoneyValue": 2296.4,
+        "defaultValueForMoney": 0.543,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-18T00:00:00",
+        "price": 4229.1,
+        "finalPrice": 4229.1,
+        "defaultLocalMoneyValue": 2296.4,
+        "defaultValueForMoney": 0.543,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-25T00:00:00",
+        "price": 4229.1,
+        "finalPrice": 4229.1,
+        "defaultLocalMoneyValue": 2296.4,
+        "defaultValueForMoney": 0.543,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-01T00:00:00",
+        "price": 4229.1,
+        "finalPrice": 4229.1,
+        "defaultLocalMoneyValue": 2296.4,
+        "defaultValueForMoney": 0.543,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-08T00:00:00",
+        "price": 4229.1,
+        "finalPrice": 4229.1,
+        "defaultLocalMoneyValue": 2296.4,
+        "defaultValueForMoney": 0.543,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-15T00:00:00",
+        "price": 4229.1,
+        "finalPrice": 4229.1,
+        "defaultLocalMoneyValue": 2296.4,
+        "defaultValueForMoney": 0.543,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-22T00:00:00",
+        "price": 4229.1,
+        "finalPrice": 4229.1,
+        "defaultLocalMoneyValue": 2296.4,
+        "defaultValueForMoney": 0.543,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-29T00:00:00",
+        "price": 4229.1,
+        "finalPrice": 4229.1,
+        "defaultLocalMoneyValue": 2296.4,
+        "defaultValueForMoney": 0.543,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-06T00:00:00",
+        "price": 4229.1,
+        "finalPrice": 4229.1,
+        "defaultLocalMoneyValue": 2296.4,
+        "defaultValueForMoney": 0.543,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-13T00:00:00",
+        "price": 3181.64,
+        "finalPrice": 3181.64,
+        "defaultLocalMoneyValue": 2332.14,
+        "defaultValueForMoney": 0.733,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-20T00:00:00",
+        "price": 3182.56,
+        "finalPrice": 3182.56,
+        "defaultLocalMoneyValue": 2329.63,
+        "defaultValueForMoney": 0.732,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-27T00:00:00",
+        "price": 2999.16,
+        "finalPrice": 2999.16,
+        "defaultLocalMoneyValue": 2330.35,
+        "defaultValueForMoney": 0.777,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-03T00:00:00",
+        "price": 3002.01,
+        "finalPrice": 3002.01,
+        "defaultLocalMoneyValue": 2329.56,
+        "defaultValueForMoney": 0.776,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-10T00:00:00",
+        "price": 3004.64,
+        "finalPrice": 3004.64,
+        "defaultLocalMoneyValue": 2331.6,
+        "defaultValueForMoney": 0.776,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-17T00:00:00",
+        "price": 3004.2,
+        "finalPrice": 3004.2,
+        "defaultLocalMoneyValue": 2331.26,
+        "defaultValueForMoney": 0.776,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-24T00:00:00",
+        "price": 3009.67,
+        "finalPrice": 3009.67,
+        "defaultLocalMoneyValue": 2332.49,
+        "defaultValueForMoney": 0.775,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-01T00:00:00",
+        "price": 3759.63,
+        "finalPrice": 3759.63,
+        "defaultLocalMoneyValue": 2330.97,
+        "defaultValueForMoney": 0.62,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-08T00:00:00",
+        "price": 3759.09,
+        "finalPrice": 3759.09,
+        "defaultLocalMoneyValue": 2330.64,
+        "defaultValueForMoney": 0.62,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-15T00:00:00",
+        "price": 3760.72,
+        "finalPrice": 3760.72,
+        "defaultLocalMoneyValue": 2331.65,
+        "defaultValueForMoney": 0.62,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-22T00:00:00",
+        "price": 3762.64,
+        "finalPrice": 3762.64,
+        "defaultLocalMoneyValue": 2332.84,
+        "defaultValueForMoney": 0.62,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-29T00:00:00",
+        "price": 3763.74,
+        "finalPrice": 3763.74,
+        "defaultLocalMoneyValue": 2329.76,
+        "defaultValueForMoney": 0.619,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-05T00:00:00",
+        "price": 3765.38,
+        "finalPrice": 3765.38,
+        "defaultLocalMoneyValue": 2330.77,
+        "defaultValueForMoney": 0.619,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-12T00:00:00",
+        "price": 3766.47,
+        "finalPrice": 3766.47,
+        "defaultLocalMoneyValue": 2331.44,
+        "defaultValueForMoney": 0.619,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-19T00:00:00",
+        "price": 3766.47,
+        "finalPrice": 3766.47,
+        "defaultLocalMoneyValue": 2331.44,
+        "defaultValueForMoney": 0.619,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-26T00:00:00",
+        "price": 3823.72,
+        "finalPrice": 3823.72,
+        "defaultLocalMoneyValue": 2179.52,
+        "defaultValueForMoney": 0.57,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-02T00:00:00",
+        "price": 6000,
+        "finalPrice": 6000,
+        "defaultLocalMoneyValue": 2298,
+        "defaultValueForMoney": 0.383,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-09T00:00:00",
+        "price": 6000,
+        "finalPrice": 6000,
+        "defaultLocalMoneyValue": 2298,
+        "defaultValueForMoney": 0.383,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-16T00:00:00",
+        "price": 3747.07,
+        "finalPrice": 3747.07,
+        "defaultLocalMoneyValue": 2330.68,
+        "defaultValueForMoney": 0.622,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-23T00:00:00",
+        "price": 5600.69,
+        "finalPrice": 5600.69,
+        "defaultLocalMoneyValue": 2369.09,
+        "defaultValueForMoney": 0.423,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-03-02T00:00:00",
+        "price": 5525.79,
+        "finalPrice": 5525.79,
+        "defaultLocalMoneyValue": 2365.04,
+        "defaultValueForMoney": 0.428,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-03-09T00:00:00",
+        "price": 5525.79,
+        "finalPrice": 5525.79,
+        "defaultLocalMoneyValue": 2365.04,
+        "defaultValueForMoney": 0.428,
+        "installmentMonths": null
+      }
+    ]
+  },
+  {
+    "merchantName": null,
+    "productDescription": "RTX 5060 Ti 8 GB",
+    "productPopularityScore": 411,
+    "priceHistory": [
+      {
+        "date": "2025-04-14T00:00:00",
+        "price": 3899.99,
+        "finalPrice": 3899.99,
+        "defaultLocalMoneyValue": 2277.59,
+        "defaultValueForMoney": 0.584,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-21T00:00:00",
+        "price": 3599.99,
+        "finalPrice": 3599.99,
+        "defaultLocalMoneyValue": 2386.79,
+        "defaultValueForMoney": 0.663,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-28T00:00:00",
+        "price": 3599.99,
+        "finalPrice": 3599.99,
+        "defaultLocalMoneyValue": 2386.79,
+        "defaultValueForMoney": 0.663,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-05T00:00:00",
+        "price": 3599.99,
+        "finalPrice": 3599.99,
+        "defaultLocalMoneyValue": 2386.79,
+        "defaultValueForMoney": 0.663,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-12T00:00:00",
+        "price": 3399,
+        "finalPrice": 3399,
+        "defaultLocalMoneyValue": 2498.27,
+        "defaultValueForMoney": 0.735,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-19T00:00:00",
+        "price": 3298.99,
+        "finalPrice": 3298.99,
+        "defaultLocalMoneyValue": 2352.18,
+        "defaultValueForMoney": 0.713,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-26T00:00:00",
+        "price": 3298.99,
+        "finalPrice": 3298.99,
+        "defaultLocalMoneyValue": 2352.18,
+        "defaultValueForMoney": 0.713,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-02T00:00:00",
+        "price": 3099.99,
+        "finalPrice": 3099.99,
+        "defaultLocalMoneyValue": 2275.39,
+        "defaultValueForMoney": 0.734,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-09T00:00:00",
+        "price": 3099.9,
+        "finalPrice": 3099.9,
+        "defaultLocalMoneyValue": 2275.33,
+        "defaultValueForMoney": 0.734,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-16T00:00:00",
+        "price": 2799,
+        "finalPrice": 2799,
+        "defaultLocalMoneyValue": 2353.96,
+        "defaultValueForMoney": 0.841,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-23T00:00:00",
+        "price": 2799,
+        "finalPrice": 2799,
+        "defaultLocalMoneyValue": 2407.14,
+        "defaultValueForMoney": 0.86,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-30T00:00:00",
+        "price": 2799.9,
+        "finalPrice": 2799.9,
+        "defaultLocalMoneyValue": 2407.91,
+        "defaultValueForMoney": 0.86,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-07T00:00:00",
+        "price": 2946.89,
+        "finalPrice": 2946.89,
+        "defaultLocalMoneyValue": 2422.34,
+        "defaultValueForMoney": 0.822,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-14T00:00:00",
+        "price": 2749,
+        "finalPrice": 2749,
+        "defaultLocalMoneyValue": 2479.6,
+        "defaultValueForMoney": 0.902,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-21T00:00:00",
+        "price": 2523,
+        "finalPrice": 2523,
+        "defaultLocalMoneyValue": 2275.75,
+        "defaultValueForMoney": 0.902,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-28T00:00:00",
+        "price": 2523,
+        "finalPrice": 2523,
+        "defaultLocalMoneyValue": 2275.75,
+        "defaultValueForMoney": 0.902,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-04T00:00:00",
+        "price": 2624.99,
+        "finalPrice": 2624.99,
+        "defaultLocalMoneyValue": 2422.87,
+        "defaultValueForMoney": 0.923,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-11T00:00:00",
+        "price": 2624.99,
+        "finalPrice": 2624.99,
+        "defaultLocalMoneyValue": 2422.87,
+        "defaultValueForMoney": 0.923,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-18T00:00:00",
+        "price": 2422.98,
+        "finalPrice": 2422.98,
+        "defaultLocalMoneyValue": 2275.18,
+        "defaultValueForMoney": 0.939,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-25T00:00:00",
+        "price": 2422.98,
+        "finalPrice": 2422.98,
+        "defaultLocalMoneyValue": 2275.18,
+        "defaultValueForMoney": 0.939,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-01T00:00:00",
+        "price": 2559.99,
+        "finalPrice": 2559.99,
+        "defaultLocalMoneyValue": 2385.91,
+        "defaultValueForMoney": 0.932,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-08T00:00:00",
+        "price": 2450.52,
+        "finalPrice": 2450.52,
+        "defaultLocalMoneyValue": 2423.56,
+        "defaultValueForMoney": 0.989,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-15T00:00:00",
+        "price": 2423.23,
+        "finalPrice": 2423.23,
+        "defaultLocalMoneyValue": 2408.69,
+        "defaultValueForMoney": 0.994,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-22T00:00:00",
+        "price": 2450.52,
+        "finalPrice": 2450.52,
+        "defaultLocalMoneyValue": 2423.56,
+        "defaultValueForMoney": 0.989,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-29T00:00:00",
+        "price": 2450.52,
+        "finalPrice": 2450.52,
+        "defaultLocalMoneyValue": 2423.56,
+        "defaultValueForMoney": 0.989,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-06T00:00:00",
+        "price": 2299.99,
+        "finalPrice": 2299.99,
+        "defaultLocalMoneyValue": 2276.99,
+        "defaultValueForMoney": 0.99,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-13T00:00:00",
+        "price": 2279.89,
+        "finalPrice": 2279.89,
+        "defaultLocalMoneyValue": 2275.33,
+        "defaultValueForMoney": 0.998,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-20T00:00:00",
+        "price": 2450.52,
+        "finalPrice": 2450.52,
+        "defaultLocalMoneyValue": 2423.56,
+        "defaultValueForMoney": 0.989,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-27T00:00:00",
+        "price": 2450.52,
+        "finalPrice": 2450.52,
+        "defaultLocalMoneyValue": 2423.56,
+        "defaultValueForMoney": 0.989,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-03T00:00:00",
+        "price": 2399.99,
+        "finalPrice": 2399.99,
+        "defaultLocalMoneyValue": 2423.99,
+        "defaultValueForMoney": 1.01,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-10T00:00:00",
+        "price": 2399,
+        "finalPrice": 2399,
+        "defaultLocalMoneyValue": 2422.99,
+        "defaultValueForMoney": 1.01,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-17T00:00:00",
+        "price": 2380.5,
+        "finalPrice": 2380.5,
+        "defaultLocalMoneyValue": 2378.12,
+        "defaultValueForMoney": 0.999,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-24T00:00:00",
+        "price": 2275.48,
+        "finalPrice": 2275.48,
+        "defaultLocalMoneyValue": 2423.39,
+        "defaultValueForMoney": 1.065,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-01T00:00:00",
+        "price": 2450.52,
+        "finalPrice": 2450.52,
+        "defaultLocalMoneyValue": 2423.56,
+        "defaultValueForMoney": 0.989,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-08T00:00:00",
+        "price": 2489.99,
+        "finalPrice": 2489.99,
+        "defaultLocalMoneyValue": 2430.23,
+        "defaultValueForMoney": 0.976,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-15T00:00:00",
+        "price": 2499.89,
+        "finalPrice": 2499.89,
+        "defaultLocalMoneyValue": 2399.89,
+        "defaultValueForMoney": 0.96,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-22T00:00:00",
+        "price": 2499.89,
+        "finalPrice": 2499.89,
+        "defaultLocalMoneyValue": 2399.89,
+        "defaultValueForMoney": 0.96,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-29T00:00:00",
+        "price": 2499.89,
+        "finalPrice": 2499.89,
+        "defaultLocalMoneyValue": 2399.89,
+        "defaultValueForMoney": 0.96,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-05T00:00:00",
+        "price": 2579.14,
+        "finalPrice": 2579.14,
+        "defaultLocalMoneyValue": 2277.38,
+        "defaultValueForMoney": 0.883,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-12T00:00:00",
+        "price": 2579.14,
+        "finalPrice": 2579.14,
+        "defaultLocalMoneyValue": 2277.38,
+        "defaultValueForMoney": 0.883,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-19T00:00:00",
+        "price": 2579.14,
+        "finalPrice": 2579.14,
+        "defaultLocalMoneyValue": 2277.38,
+        "defaultValueForMoney": 0.883,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-26T00:00:00",
+        "price": 2899.99,
+        "finalPrice": 2899.99,
+        "defaultLocalMoneyValue": 2406.99,
+        "defaultValueForMoney": 0.83,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-02T00:00:00",
+        "price": 2899.99,
+        "finalPrice": 2899.99,
+        "defaultLocalMoneyValue": 2430.19,
+        "defaultValueForMoney": 0.838,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-09T00:00:00",
+        "price": 2889.99,
+        "finalPrice": 2889.99,
+        "defaultLocalMoneyValue": 2407.36,
+        "defaultValueForMoney": 0.833,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-16T00:00:00",
+        "price": 2850,
+        "finalPrice": 2850,
+        "defaultLocalMoneyValue": 2399.7,
+        "defaultValueForMoney": 0.842,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-23T00:00:00",
+        "price": 2850,
+        "finalPrice": 2850,
+        "defaultLocalMoneyValue": 2408.25,
+        "defaultValueForMoney": 0.845,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-03-02T00:00:00",
+        "price": 2899.99,
+        "finalPrice": 2899.99,
+        "defaultLocalMoneyValue": 2383.79,
+        "defaultValueForMoney": 0.822,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-03-09T00:00:00",
+        "price": 2946.89,
+        "finalPrice": 2946.89,
+        "defaultLocalMoneyValue": 2422.34,
+        "defaultValueForMoney": 0.822,
+        "installmentMonths": null
+      }
+    ]
+  },
+  {
+    "merchantName": null,
+    "productDescription": "RTX 5060 Ti 16 GB",
+    "productPopularityScore": 384,
+    "priceHistory": [
+      {
+        "date": "2025-04-14T00:00:00",
+        "price": 4499.9,
+        "finalPrice": 4499.9,
+        "defaultLocalMoneyValue": 2852.94,
+        "defaultValueForMoney": 0.634,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-21T00:00:00",
+        "price": 4099.99,
+        "finalPrice": 4099.99,
+        "defaultLocalMoneyValue": 2992.99,
+        "defaultValueForMoney": 0.73,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-28T00:00:00",
+        "price": 4099.99,
+        "finalPrice": 4099.99,
+        "defaultLocalMoneyValue": 2992.99,
+        "defaultValueForMoney": 0.73,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-05T00:00:00",
+        "price": 3699,
+        "finalPrice": 3699,
+        "defaultLocalMoneyValue": 3036.88,
+        "defaultValueForMoney": 0.821,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-12T00:00:00",
+        "price": 3898.99,
+        "finalPrice": 3898.99,
+        "defaultLocalMoneyValue": 3037.31,
+        "defaultValueForMoney": 0.779,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-19T00:00:00",
+        "price": 3898.99,
+        "finalPrice": 3898.99,
+        "defaultLocalMoneyValue": 3037.31,
+        "defaultValueForMoney": 0.779,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-26T00:00:00",
+        "price": 3898.99,
+        "finalPrice": 3898.99,
+        "defaultLocalMoneyValue": 3037.31,
+        "defaultValueForMoney": 0.779,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-02T00:00:00",
+        "price": 3898.99,
+        "finalPrice": 3898.99,
+        "defaultLocalMoneyValue": 3037.31,
+        "defaultValueForMoney": 0.779,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-09T00:00:00",
+        "price": 3898.09,
+        "finalPrice": 3898.09,
+        "defaultLocalMoneyValue": 3036.61,
+        "defaultValueForMoney": 0.779,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-16T00:00:00",
+        "price": 3749.9,
+        "finalPrice": 3749.9,
+        "defaultLocalMoneyValue": 2943.67,
+        "defaultValueForMoney": 0.785,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-23T00:00:00",
+        "price": 3499,
+        "finalPrice": 3499,
+        "defaultLocalMoneyValue": 3037.13,
+        "defaultValueForMoney": 0.868,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-30T00:00:00",
+        "price": 3499,
+        "finalPrice": 3499,
+        "defaultLocalMoneyValue": 3037.13,
+        "defaultValueForMoney": 0.868,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-07T00:00:00",
+        "price": 3482.61,
+        "finalPrice": 3482.61,
+        "defaultLocalMoneyValue": 3036.84,
+        "defaultValueForMoney": 0.872,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-14T00:00:00",
+        "price": 3298.99,
+        "finalPrice": 3298.99,
+        "defaultLocalMoneyValue": 3038.37,
+        "defaultValueForMoney": 0.921,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-21T00:00:00",
+        "price": 3229.15,
+        "finalPrice": 3229.15,
+        "defaultLocalMoneyValue": 3035.4,
+        "defaultValueForMoney": 0.94,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-28T00:00:00",
+        "price": 3029.14,
+        "finalPrice": 3029.14,
+        "defaultLocalMoneyValue": 2998.85,
+        "defaultValueForMoney": 0.99,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-04T00:00:00",
+        "price": 3028.98,
+        "finalPrice": 3028.98,
+        "defaultLocalMoneyValue": 2998.69,
+        "defaultValueForMoney": 0.99,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-11T00:00:00",
+        "price": 3028.98,
+        "finalPrice": 3028.98,
+        "defaultLocalMoneyValue": 2998.69,
+        "defaultValueForMoney": 0.99,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-18T00:00:00",
+        "price": 3028.98,
+        "finalPrice": 3028.98,
+        "defaultLocalMoneyValue": 2998.69,
+        "defaultValueForMoney": 0.99,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-25T00:00:00",
+        "price": 3028.98,
+        "finalPrice": 3028.98,
+        "defaultLocalMoneyValue": 2998.69,
+        "defaultValueForMoney": 0.99,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-01T00:00:00",
+        "price": 3028.98,
+        "finalPrice": 3028.98,
+        "defaultLocalMoneyValue": 2998.69,
+        "defaultValueForMoney": 0.99,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-08T00:00:00",
+        "price": 3028.98,
+        "finalPrice": 3028.98,
+        "defaultLocalMoneyValue": 2998.69,
+        "defaultValueForMoney": 0.99,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-15T00:00:00",
+        "price": 3028.98,
+        "finalPrice": 3028.98,
+        "defaultLocalMoneyValue": 2998.69,
+        "defaultValueForMoney": 0.99,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-22T00:00:00",
+        "price": 3233.85,
+        "finalPrice": 3233.85,
+        "defaultLocalMoneyValue": 3036.59,
+        "defaultValueForMoney": 0.939,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-29T00:00:00",
+        "price": 3099.99,
+        "finalPrice": 3099.99,
+        "defaultLocalMoneyValue": 2944.99,
+        "defaultValueForMoney": 0.95,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-06T00:00:00",
+        "price": 3099.99,
+        "finalPrice": 3099.99,
+        "defaultLocalMoneyValue": 2948.09,
+        "defaultValueForMoney": 0.951,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-13T00:00:00",
+        "price": 3095.14,
+        "finalPrice": 3095.14,
+        "defaultLocalMoneyValue": 2993,
+        "defaultValueForMoney": 0.967,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-20T00:00:00",
+        "price": 3099.9,
+        "finalPrice": 3099.9,
+        "defaultLocalMoneyValue": 2944.91,
+        "defaultValueForMoney": 0.95,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-27T00:00:00",
+        "price": 3095.14,
+        "finalPrice": 3095.14,
+        "defaultLocalMoneyValue": 2993,
+        "defaultValueForMoney": 0.967,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-03T00:00:00",
+        "price": 3095.14,
+        "finalPrice": 3095.14,
+        "defaultLocalMoneyValue": 2999.19,
+        "defaultValueForMoney": 0.969,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-10T00:00:00",
+        "price": 3095.14,
+        "finalPrice": 3095.14,
+        "defaultLocalMoneyValue": 3033.24,
+        "defaultValueForMoney": 0.98,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-17T00:00:00",
+        "price": 3095.14,
+        "finalPrice": 3095.14,
+        "defaultLocalMoneyValue": 2999.19,
+        "defaultValueForMoney": 0.969,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-24T00:00:00",
+        "price": 2899,
+        "finalPrice": 2899,
+        "defaultLocalMoneyValue": 3012.06,
+        "defaultValueForMoney": 1.039,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-01T00:00:00",
+        "price": 2899,
+        "finalPrice": 2899,
+        "defaultLocalMoneyValue": 3012.06,
+        "defaultValueForMoney": 1.039,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-08T00:00:00",
+        "price": 2899,
+        "finalPrice": 2899,
+        "defaultLocalMoneyValue": 3012.06,
+        "defaultValueForMoney": 1.039,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-15T00:00:00",
+        "price": 2999,
+        "finalPrice": 2999,
+        "defaultLocalMoneyValue": 3034.99,
+        "defaultValueForMoney": 1.012,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-22T00:00:00",
+        "price": 3121.8,
+        "finalPrice": 3121.8,
+        "defaultLocalMoneyValue": 2984.44,
+        "defaultValueForMoney": 0.956,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-29T00:00:00",
+        "price": 3121.8,
+        "finalPrice": 3121.8,
+        "defaultLocalMoneyValue": 2984.44,
+        "defaultValueForMoney": 0.956,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-05T00:00:00",
+        "price": 3349.89,
+        "finalPrice": 3349.89,
+        "defaultLocalMoneyValue": 2984.75,
+        "defaultValueForMoney": 0.891,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-12T00:00:00",
+        "price": 3439.14,
+        "finalPrice": 3439.14,
+        "defaultLocalMoneyValue": 2861.36,
+        "defaultValueForMoney": 0.832,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-19T00:00:00",
+        "price": 3229.15,
+        "finalPrice": 3229.15,
+        "defaultLocalMoneyValue": 2983.73,
+        "defaultValueForMoney": 0.924,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-26T00:00:00",
+        "price": 3518.9,
+        "finalPrice": 3518.9,
+        "defaultLocalMoneyValue": 3005.14,
+        "defaultValueForMoney": 0.854,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-02T00:00:00",
+        "price": 3599,
+        "finalPrice": 3599,
+        "defaultLocalMoneyValue": 3037.56,
+        "defaultValueForMoney": 0.844,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-09T00:00:00",
+        "price": 3699,
+        "finalPrice": 3699,
+        "defaultLocalMoneyValue": 3036.88,
+        "defaultValueForMoney": 0.821,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-16T00:00:00",
+        "price": 3599,
+        "finalPrice": 3599,
+        "defaultLocalMoneyValue": 3037.56,
+        "defaultValueForMoney": 0.844,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-23T00:00:00",
+        "price": 3697.14,
+        "finalPrice": 3697.14,
+        "defaultLocalMoneyValue": 2983.59,
+        "defaultValueForMoney": 0.807,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-03-02T00:00:00",
+        "price": 3697.14,
+        "finalPrice": 3697.14,
+        "defaultLocalMoneyValue": 2983.59,
+        "defaultValueForMoney": 0.807,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-03-09T00:00:00",
+        "price": 3697.14,
+        "finalPrice": 3697.14,
+        "defaultLocalMoneyValue": 2983.59,
+        "defaultValueForMoney": 0.807,
+        "installmentMonths": null
+      }
+    ]
+  },
+  {
+    "merchantName": null,
+    "productDescription": "RTX 3080 Ti",
+    "productPopularityScore": 23,
+    "priceHistory": [
+      {
+        "date": "2025-03-31T00:00:00",
+        "price": 6551.95,
+        "finalPrice": 6551.95,
+        "defaultLocalMoneyValue": 3465.98,
+        "defaultValueForMoney": 0.529,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-07T00:00:00",
+        "price": 6566.85,
+        "finalPrice": 6566.85,
+        "defaultLocalMoneyValue": 3381.93,
+        "defaultValueForMoney": 0.515,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-14T00:00:00",
+        "price": 6566.85,
+        "finalPrice": 6566.85,
+        "defaultLocalMoneyValue": 3381.93,
+        "defaultValueForMoney": 0.515,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-21T00:00:00",
+        "price": 6320.17,
+        "finalPrice": 6320.17,
+        "defaultLocalMoneyValue": 3381.29,
+        "defaultValueForMoney": 0.535,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-28T00:00:00",
+        "price": 6320.17,
+        "finalPrice": 6320.17,
+        "defaultLocalMoneyValue": 3381.29,
+        "defaultValueForMoney": 0.535,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-05T00:00:00",
+        "price": 8091.87,
+        "finalPrice": 8091.87,
+        "defaultLocalMoneyValue": 3600.88,
+        "defaultValueForMoney": 0.445,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-12T00:00:00",
+        "price": 6419.78,
+        "finalPrice": 6419.78,
+        "defaultLocalMoneyValue": 3383.22,
+        "defaultValueForMoney": 0.527,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-19T00:00:00",
+        "price": 6403.4,
+        "finalPrice": 6403.4,
+        "defaultLocalMoneyValue": 3381,
+        "defaultValueForMoney": 0.528,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-26T00:00:00",
+        "price": 6403.4,
+        "finalPrice": 6403.4,
+        "defaultLocalMoneyValue": 3381,
+        "defaultValueForMoney": 0.528,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-02T00:00:00",
+        "price": 6403.4,
+        "finalPrice": 6403.4,
+        "defaultLocalMoneyValue": 3381,
+        "defaultValueForMoney": 0.528,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-09T00:00:00",
+        "price": 6403.4,
+        "finalPrice": 6403.4,
+        "defaultLocalMoneyValue": 3381,
+        "defaultValueForMoney": 0.528,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-16T00:00:00",
+        "price": 6403.4,
+        "finalPrice": 6403.4,
+        "defaultLocalMoneyValue": 3381,
+        "defaultValueForMoney": 0.528,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-23T00:00:00",
+        "price": 6403.4,
+        "finalPrice": 6403.4,
+        "defaultLocalMoneyValue": 3381,
+        "defaultValueForMoney": 0.528,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-30T00:00:00",
+        "price": 6403.4,
+        "finalPrice": 6403.4,
+        "defaultLocalMoneyValue": 3381,
+        "defaultValueForMoney": 0.528,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-07T00:00:00",
+        "price": 6403.4,
+        "finalPrice": 6403.4,
+        "defaultLocalMoneyValue": 3381,
+        "defaultValueForMoney": 0.528,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-14T00:00:00",
+        "price": 6403.4,
+        "finalPrice": 6403.4,
+        "defaultLocalMoneyValue": 3381,
+        "defaultValueForMoney": 0.528,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-21T00:00:00",
+        "price": 6403.4,
+        "finalPrice": 6403.4,
+        "defaultLocalMoneyValue": 3381,
+        "defaultValueForMoney": 0.528,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-28T00:00:00",
+        "price": 6546.29,
+        "finalPrice": 6546.29,
+        "defaultLocalMoneyValue": 3384.43,
+        "defaultValueForMoney": 0.517,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-04T00:00:00",
+        "price": 6546.29,
+        "finalPrice": 6546.29,
+        "defaultLocalMoneyValue": 3384.43,
+        "defaultValueForMoney": 0.517,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-11T00:00:00",
+        "price": 6546.29,
+        "finalPrice": 6546.29,
+        "defaultLocalMoneyValue": 3384.43,
+        "defaultValueForMoney": 0.517,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-18T00:00:00",
+        "price": 6546.29,
+        "finalPrice": 6546.29,
+        "defaultLocalMoneyValue": 3384.43,
+        "defaultValueForMoney": 0.517,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-25T00:00:00",
+        "price": 6522.48,
+        "finalPrice": 6522.48,
+        "defaultLocalMoneyValue": 3385.17,
+        "defaultValueForMoney": 0.519,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-01T00:00:00",
+        "price": 6501.32,
+        "finalPrice": 6501.32,
+        "defaultLocalMoneyValue": 3387.19,
+        "defaultValueForMoney": 0.521,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-08T00:00:00",
+        "price": 6501.32,
+        "finalPrice": 6501.32,
+        "defaultLocalMoneyValue": 3387.19,
+        "defaultValueForMoney": 0.521,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-15T00:00:00",
+        "price": 6501.32,
+        "finalPrice": 6501.32,
+        "defaultLocalMoneyValue": 3387.19,
+        "defaultValueForMoney": 0.521,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-22T00:00:00",
+        "price": 6501.32,
+        "finalPrice": 6501.32,
+        "defaultLocalMoneyValue": 3387.19,
+        "defaultValueForMoney": 0.521,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-29T00:00:00",
+        "price": 6551.19,
+        "finalPrice": 6551.19,
+        "defaultLocalMoneyValue": 3386.97,
+        "defaultValueForMoney": 0.517,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-06T00:00:00",
+        "price": 7186.62,
+        "finalPrice": 7186.62,
+        "defaultLocalMoneyValue": 3600.5,
+        "defaultValueForMoney": 0.501,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-13T00:00:00",
+        "price": 5240.95,
+        "finalPrice": 5240.95,
+        "defaultLocalMoneyValue": 3385.65,
+        "defaultValueForMoney": 0.646,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-20T00:00:00",
+        "price": 5752.05,
+        "finalPrice": 5752.05,
+        "defaultLocalMoneyValue": 3600.78,
+        "defaultValueForMoney": 0.626,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-27T00:00:00",
+        "price": 5752.05,
+        "finalPrice": 5752.05,
+        "defaultLocalMoneyValue": 3600.78,
+        "defaultValueForMoney": 0.626,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-03T00:00:00",
+        "price": 5029.32,
+        "finalPrice": 5029.32,
+        "defaultLocalMoneyValue": 3384.73,
+        "defaultValueForMoney": 0.673,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-10T00:00:00",
+        "price": 4933.93,
+        "finalPrice": 4933.93,
+        "defaultLocalMoneyValue": 3384.68,
+        "defaultValueForMoney": 0.686,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-17T00:00:00",
+        "price": 7615.4,
+        "finalPrice": 7615.4,
+        "defaultLocalMoneyValue": 3602.08,
+        "defaultValueForMoney": 0.473,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-24T00:00:00",
+        "price": 5019.81,
+        "finalPrice": 5019.81,
+        "defaultLocalMoneyValue": 3383.35,
+        "defaultValueForMoney": 0.674,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-01T00:00:00",
+        "price": 8477.83,
+        "finalPrice": 8477.83,
+        "defaultLocalMoneyValue": 3603.08,
+        "defaultValueForMoney": 0.425,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-08T00:00:00",
+        "price": 8463.61,
+        "finalPrice": 8463.61,
+        "defaultLocalMoneyValue": 3597.03,
+        "defaultValueForMoney": 0.425,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-15T00:00:00",
+        "price": 8463.61,
+        "finalPrice": 8463.61,
+        "defaultLocalMoneyValue": 3597.03,
+        "defaultValueForMoney": 0.425,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-22T00:00:00",
+        "price": 8606.05,
+        "finalPrice": 8606.05,
+        "defaultLocalMoneyValue": 3597.33,
+        "defaultValueForMoney": 0.418,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-29T00:00:00",
+        "price": 8606.05,
+        "finalPrice": 8606.05,
+        "defaultLocalMoneyValue": 3597.33,
+        "defaultValueForMoney": 0.418,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-05T00:00:00",
+        "price": 8631.84,
+        "finalPrice": 8631.84,
+        "defaultLocalMoneyValue": 3599.48,
+        "defaultValueForMoney": 0.417,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-12T00:00:00",
+        "price": 8631.84,
+        "finalPrice": 8631.84,
+        "defaultLocalMoneyValue": 3599.48,
+        "defaultValueForMoney": 0.417,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-19T00:00:00",
+        "price": 8631.84,
+        "finalPrice": 8631.84,
+        "defaultLocalMoneyValue": 3599.48,
+        "defaultValueForMoney": 0.417,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-26T00:00:00",
+        "price": 13398.53,
+        "finalPrice": 13398.53,
+        "defaultLocalMoneyValue": 3389.83,
+        "defaultValueForMoney": 0.253,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-02T00:00:00",
+        "price": 13401.55,
+        "finalPrice": 13401.55,
+        "defaultLocalMoneyValue": 3390.59,
+        "defaultValueForMoney": 0.253,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-09T00:00:00",
+        "price": 13401.55,
+        "finalPrice": 13401.55,
+        "defaultLocalMoneyValue": 3390.59,
+        "defaultValueForMoney": 0.253,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-16T00:00:00",
+        "price": 13401.55,
+        "finalPrice": 13401.55,
+        "defaultLocalMoneyValue": 3390.59,
+        "defaultValueForMoney": 0.253,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-23T00:00:00",
+        "price": 13401.55,
+        "finalPrice": 13401.55,
+        "defaultLocalMoneyValue": 3390.59,
+        "defaultValueForMoney": 0.253,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-03-02T00:00:00",
+        "price": 13335.36,
+        "finalPrice": 13335.36,
+        "defaultLocalMoneyValue": 3387.18,
+        "defaultValueForMoney": 0.254,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-03-09T00:00:00",
+        "price": 13335.36,
+        "finalPrice": 13335.36,
+        "defaultLocalMoneyValue": 3387.18,
+        "defaultValueForMoney": 0.254,
+        "installmentMonths": null
+      }
+    ]
+  },
+  {
+    "merchantName": null,
+    "productDescription": "RTX 4070 SUPER",
+    "productPopularityScore": 15,
+    "priceHistory": [
+      {
+        "date": "2025-03-31T00:00:00",
+        "price": 6199.99,
+        "finalPrice": 6199.99,
+        "defaultLocalMoneyValue": 3887.39,
+        "defaultValueForMoney": 0.627,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-07T00:00:00",
+        "price": 4999.49,
+        "finalPrice": 4999.49,
+        "defaultLocalMoneyValue": 3987.09,
+        "defaultValueForMoney": 0.7975,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-14T00:00:00",
+        "price": 4903.65,
+        "finalPrice": 4903.65,
+        "defaultLocalMoneyValue": 3913.11,
+        "defaultValueForMoney": 0.798,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-21T00:00:00",
+        "price": 4903.82,
+        "finalPrice": 4903.82,
+        "defaultLocalMoneyValue": 3913.25,
+        "defaultValueForMoney": 0.798,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-28T00:00:00",
+        "price": 5199.9,
+        "finalPrice": 5199.9,
+        "defaultLocalMoneyValue": 3686.73,
+        "defaultValueForMoney": 0.709,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-05T00:00:00",
+        "price": 5199.9,
+        "finalPrice": 5199.9,
+        "defaultLocalMoneyValue": 3686.73,
+        "defaultValueForMoney": 0.709,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-12T00:00:00",
+        "price": 4599.9,
+        "finalPrice": 4599.9,
+        "defaultLocalMoneyValue": 3689.12,
+        "defaultValueForMoney": 0.802,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-19T00:00:00",
+        "price": 4599.9,
+        "finalPrice": 4599.9,
+        "defaultLocalMoneyValue": 3689.12,
+        "defaultValueForMoney": 0.802,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-26T00:00:00",
+        "price": 4899.9,
+        "finalPrice": 4899.9,
+        "defaultLocalMoneyValue": 3885.62,
+        "defaultValueForMoney": 0.793,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-02T00:00:00",
+        "price": 4399.9,
+        "finalPrice": 4399.9,
+        "defaultLocalMoneyValue": 3687.12,
+        "defaultValueForMoney": 0.838,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-09T00:00:00",
+        "price": 4859.99,
+        "finalPrice": 4859.99,
+        "defaultLocalMoneyValue": 3887.99,
+        "defaultValueForMoney": 0.8,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-16T00:00:00",
+        "price": 4799.99,
+        "finalPrice": 4799.99,
+        "defaultLocalMoneyValue": 3935.99,
+        "defaultValueForMoney": 0.82,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-23T00:00:00",
+        "price": 4998.99,
+        "finalPrice": 4998.99,
+        "defaultLocalMoneyValue": 3989.19,
+        "defaultValueForMoney": 0.798,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-30T00:00:00",
+        "price": 4998.99,
+        "finalPrice": 4998.99,
+        "defaultLocalMoneyValue": 3989.19,
+        "defaultValueForMoney": 0.798,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-07T00:00:00",
+        "price": 5199.9,
+        "finalPrice": 5199.9,
+        "defaultLocalMoneyValue": 3686.73,
+        "defaultValueForMoney": 0.709,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-14T00:00:00",
+        "price": 5199.9,
+        "finalPrice": 5199.9,
+        "defaultLocalMoneyValue": 3686.73,
+        "defaultValueForMoney": 0.709,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-21T00:00:00",
+        "price": 5199.9,
+        "finalPrice": 5199.9,
+        "defaultLocalMoneyValue": 3686.73,
+        "defaultValueForMoney": 0.709,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-28T00:00:00",
+        "price": 5199.9,
+        "finalPrice": 5199.9,
+        "defaultLocalMoneyValue": 3686.73,
+        "defaultValueForMoney": 0.709,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-04T00:00:00",
+        "price": 4659.99,
+        "finalPrice": 4659.99,
+        "defaultLocalMoneyValue": 3886.43,
+        "defaultValueForMoney": 0.834,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-11T00:00:00",
+        "price": 4699.99,
+        "finalPrice": 4699.99,
+        "defaultLocalMoneyValue": 3886.89,
+        "defaultValueForMoney": 0.827,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-18T00:00:00",
+        "price": 4799.99,
+        "finalPrice": 4799.99,
+        "defaultLocalMoneyValue": 4027.19,
+        "defaultValueForMoney": 0.839,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-25T00:00:00",
+        "price": 4559.99,
+        "finalPrice": 4559.99,
+        "defaultLocalMoneyValue": 4026.47,
+        "defaultValueForMoney": 0.883,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-01T00:00:00",
+        "price": 4499.99,
+        "finalPrice": 4499.99,
+        "defaultLocalMoneyValue": 4027.49,
+        "defaultValueForMoney": 0.895,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-08T00:00:00",
+        "price": 4099.99,
+        "finalPrice": 4099.99,
+        "defaultLocalMoneyValue": 4026.19,
+        "defaultValueForMoney": 0.982,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-15T00:00:00",
+        "price": 4099.99,
+        "finalPrice": 4099.99,
+        "defaultLocalMoneyValue": 3837.59,
+        "defaultValueForMoney": 0.936,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-22T00:00:00",
+        "price": 3999.99,
+        "finalPrice": 3999.99,
+        "defaultLocalMoneyValue": 3835.99,
+        "defaultValueForMoney": 0.959,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-29T00:00:00",
+        "price": 3999.99,
+        "finalPrice": 3999.99,
+        "defaultLocalMoneyValue": 3835.99,
+        "defaultValueForMoney": 0.959,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-06T00:00:00",
+        "price": 3999.99,
+        "finalPrice": 3999.99,
+        "defaultLocalMoneyValue": 3835.99,
+        "defaultValueForMoney": 0.959,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-13T00:00:00",
+        "price": 3999.99,
+        "finalPrice": 3999.99,
+        "defaultLocalMoneyValue": 3835.99,
+        "defaultValueForMoney": 0.959,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-20T00:00:00",
+        "price": 3999.99,
+        "finalPrice": 3999.99,
+        "defaultLocalMoneyValue": 3835.99,
+        "defaultValueForMoney": 0.959,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-27T00:00:00",
+        "price": 3999.99,
+        "finalPrice": 3999.99,
+        "defaultLocalMoneyValue": 3835.99,
+        "defaultValueForMoney": 0.959,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-03T00:00:00",
+        "price": 3999.99,
+        "finalPrice": 3999.99,
+        "defaultLocalMoneyValue": 3835.99,
+        "defaultValueForMoney": 0.959,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-10T00:00:00",
+        "price": 3999.99,
+        "finalPrice": 3999.99,
+        "defaultLocalMoneyValue": 3835.99,
+        "defaultValueForMoney": 0.959,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-17T00:00:00",
+        "price": 3999.99,
+        "finalPrice": 3999.99,
+        "defaultLocalMoneyValue": 3835.99,
+        "defaultValueForMoney": 0.959,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-24T00:00:00",
+        "price": 3999.99,
+        "finalPrice": 3999.99,
+        "defaultLocalMoneyValue": 3835.99,
+        "defaultValueForMoney": 0.959,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-08T00:00:00",
+        "price": 4299.99,
+        "finalPrice": 4299.99,
+        "defaultLocalMoneyValue": 3839.89,
+        "defaultValueForMoney": 0.893,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-15T00:00:00",
+        "price": 4299.99,
+        "finalPrice": 4299.99,
+        "defaultLocalMoneyValue": 3839.89,
+        "defaultValueForMoney": 0.893,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-22T00:00:00",
+        "price": 4359.99,
+        "finalPrice": 4359.99,
+        "defaultLocalMoneyValue": 3836.79,
+        "defaultValueForMoney": 0.88,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-29T00:00:00",
+        "price": 4359.99,
+        "finalPrice": 4359.99,
+        "defaultLocalMoneyValue": 3836.79,
+        "defaultValueForMoney": 0.88,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-05T00:00:00",
+        "price": 4399.99,
+        "finalPrice": 4399.99,
+        "defaultLocalMoneyValue": 4025.99,
+        "defaultValueForMoney": 0.915,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-12T00:00:00",
+        "price": 4699.99,
+        "finalPrice": 4699.99,
+        "defaultLocalMoneyValue": 4023.19,
+        "defaultValueForMoney": 0.856,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-19T00:00:00",
+        "price": 4699.99,
+        "finalPrice": 4699.99,
+        "defaultLocalMoneyValue": 4023.19,
+        "defaultValueForMoney": 0.856,
+        "installmentMonths": null
+      }
+    ]
+  },
+  {
+    "merchantName": null,
+    "productDescription": "RTX 5070",
+    "productPopularityScore": 495,
+    "priceHistory": [
+      {
+        "date": "2025-03-31T00:00:00",
+        "price": 5339.99,
+        "finalPrice": 5339.99,
+        "defaultLocalMoneyValue": 4154.51,
+        "defaultValueForMoney": 0.778,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-07T00:00:00",
+        "price": 5199.9,
+        "finalPrice": 5199.9,
+        "defaultLocalMoneyValue": 4066.32,
+        "defaultValueForMoney": 0.782,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-14T00:00:00",
+        "price": 4998.99,
+        "finalPrice": 4998.99,
+        "defaultLocalMoneyValue": 4134.16,
+        "defaultValueForMoney": 0.827,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-21T00:00:00",
+        "price": 4998.99,
+        "finalPrice": 4998.99,
+        "defaultLocalMoneyValue": 4139.16,
+        "defaultValueForMoney": 0.828,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-28T00:00:00",
+        "price": 4598.99,
+        "finalPrice": 4598.99,
+        "defaultLocalMoneyValue": 4070.11,
+        "defaultValueForMoney": 0.885,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-05T00:00:00",
+        "price": 4499,
+        "finalPrice": 4499,
+        "defaultLocalMoneyValue": 4103.09,
+        "defaultValueForMoney": 0.912,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-12T00:00:00",
+        "price": 4440.58,
+        "finalPrice": 4440.58,
+        "defaultLocalMoneyValue": 4103.1,
+        "defaultValueForMoney": 0.924,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-19T00:00:00",
+        "price": 4440.58,
+        "finalPrice": 4440.58,
+        "defaultLocalMoneyValue": 4103.1,
+        "defaultValueForMoney": 0.924,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-26T00:00:00",
+        "price": 4399,
+        "finalPrice": 4399,
+        "defaultLocalMoneyValue": 4104.27,
+        "defaultValueForMoney": 0.933,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-02T00:00:00",
+        "price": 4453.06,
+        "finalPrice": 4453.06,
+        "defaultLocalMoneyValue": 4105.72,
+        "defaultValueForMoney": 0.922,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-09T00:00:00",
+        "price": 4343.11,
+        "finalPrice": 4343.11,
+        "defaultLocalMoneyValue": 4104.24,
+        "defaultValueForMoney": 0.945,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-16T00:00:00",
+        "price": 4343.11,
+        "finalPrice": 4343.11,
+        "defaultLocalMoneyValue": 4104.24,
+        "defaultValueForMoney": 0.945,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-23T00:00:00",
+        "price": 4189.08,
+        "finalPrice": 4189.08,
+        "defaultLocalMoneyValue": 4105.3,
+        "defaultValueForMoney": 0.98,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-30T00:00:00",
+        "price": 4149.9,
+        "finalPrice": 4149.9,
+        "defaultLocalMoneyValue": 4137.45,
+        "defaultValueForMoney": 0.997,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-07T00:00:00",
+        "price": 3999.99,
+        "finalPrice": 3999.99,
+        "defaultLocalMoneyValue": 4135.99,
+        "defaultValueForMoney": 1.034,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-14T00:00:00",
+        "price": 3999,
+        "finalPrice": 3999,
+        "defaultLocalMoneyValue": 4102.97,
+        "defaultValueForMoney": 1.026,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-21T00:00:00",
+        "price": 3929.9,
+        "finalPrice": 3929.9,
+        "defaultLocalMoneyValue": 4071.38,
+        "defaultValueForMoney": 1.036,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-28T00:00:00",
+        "price": 3999,
+        "finalPrice": 3999,
+        "defaultLocalMoneyValue": 4102.97,
+        "defaultValueForMoney": 1.026,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-04T00:00:00",
+        "price": 3833.58,
+        "finalPrice": 3833.58,
+        "defaultLocalMoneyValue": 4075.1,
+        "defaultValueForMoney": 1.063,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-11T00:00:00",
+        "price": 3799,
+        "finalPrice": 3799,
+        "defaultLocalMoneyValue": 4072.53,
+        "defaultValueForMoney": 1.072,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-18T00:00:00",
+        "price": 3799,
+        "finalPrice": 3799,
+        "defaultLocalMoneyValue": 4072.53,
+        "defaultValueForMoney": 1.072,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-25T00:00:00",
+        "price": 3874.38,
+        "finalPrice": 3874.38,
+        "defaultLocalMoneyValue": 4102.97,
+        "defaultValueForMoney": 1.059,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-01T00:00:00",
+        "price": 3837.37,
+        "finalPrice": 3837.37,
+        "defaultLocalMoneyValue": 4105.99,
+        "defaultValueForMoney": 1.07,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-08T00:00:00",
+        "price": 3699,
+        "finalPrice": 3699,
+        "defaultLocalMoneyValue": 4072.6,
+        "defaultValueForMoney": 1.101,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-15T00:00:00",
+        "price": 3699,
+        "finalPrice": 3699,
+        "defaultLocalMoneyValue": 4072.6,
+        "defaultValueForMoney": 1.101,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-22T00:00:00",
+        "price": 3977.7,
+        "finalPrice": 3977.7,
+        "defaultLocalMoneyValue": 4104.99,
+        "defaultValueForMoney": 1.032,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-29T00:00:00",
+        "price": 3799.99,
+        "finalPrice": 3799.99,
+        "defaultLocalMoneyValue": 4176.19,
+        "defaultValueForMoney": 1.099,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-06T00:00:00",
+        "price": 3789.99,
+        "finalPrice": 3789.99,
+        "defaultLocalMoneyValue": 4165.2,
+        "defaultValueForMoney": 1.099,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-13T00:00:00",
+        "price": 3859.99,
+        "finalPrice": 3859.99,
+        "defaultLocalMoneyValue": 4107.03,
+        "defaultValueForMoney": 1.064,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-20T00:00:00",
+        "price": 3874.38,
+        "finalPrice": 3874.38,
+        "defaultLocalMoneyValue": 4102.97,
+        "defaultValueForMoney": 1.059,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-27T00:00:00",
+        "price": 3874.38,
+        "finalPrice": 3874.38,
+        "defaultLocalMoneyValue": 4102.97,
+        "defaultValueForMoney": 1.059,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-03T00:00:00",
+        "price": 3874.38,
+        "finalPrice": 3874.38,
+        "defaultLocalMoneyValue": 4102.97,
+        "defaultValueForMoney": 1.059,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-10T00:00:00",
+        "price": 3859.99,
+        "finalPrice": 3859.99,
+        "defaultLocalMoneyValue": 4087.73,
+        "defaultValueForMoney": 1.059,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-17T00:00:00",
+        "price": 3874.38,
+        "finalPrice": 3874.38,
+        "defaultLocalMoneyValue": 4102.97,
+        "defaultValueForMoney": 1.059,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-24T00:00:00",
+        "price": 3699.99,
+        "finalPrice": 3699.99,
+        "defaultLocalMoneyValue": 4073.69,
+        "defaultValueForMoney": 1.101,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-01T00:00:00",
+        "price": 3799.99,
+        "finalPrice": 3799.99,
+        "defaultLocalMoneyValue": 4073.59,
+        "defaultValueForMoney": 1.072,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-08T00:00:00",
+        "price": 3799.99,
+        "finalPrice": 3799.99,
+        "defaultLocalMoneyValue": 4130.59,
+        "defaultValueForMoney": 1.087,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-15T00:00:00",
+        "price": 3799.99,
+        "finalPrice": 3799.99,
+        "defaultLocalMoneyValue": 4073.59,
+        "defaultValueForMoney": 1.072,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-22T00:00:00",
+        "price": 3955.14,
+        "finalPrice": 3955.14,
+        "defaultLocalMoneyValue": 4073.79,
+        "defaultValueForMoney": 1.03,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-29T00:00:00",
+        "price": 3999.99,
+        "finalPrice": 3999.99,
+        "defaultLocalMoneyValue": 4131.99,
+        "defaultValueForMoney": 1.033,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-05T00:00:00",
+        "price": 4038.99,
+        "finalPrice": 4038.99,
+        "defaultLocalMoneyValue": 4103.61,
+        "defaultValueForMoney": 1.016,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-12T00:00:00",
+        "price": 4038.99,
+        "finalPrice": 4038.99,
+        "defaultLocalMoneyValue": 4103.61,
+        "defaultValueForMoney": 1.016,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-19T00:00:00",
+        "price": 4213.14,
+        "finalPrice": 4213.14,
+        "defaultLocalMoneyValue": 4074.11,
+        "defaultValueForMoney": 0.967,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-26T00:00:00",
+        "price": 4299.9,
+        "finalPrice": 4299.9,
+        "defaultLocalMoneyValue": 4072.01,
+        "defaultValueForMoney": 0.947,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-02T00:00:00",
+        "price": 4299,
+        "finalPrice": 4299,
+        "defaultLocalMoneyValue": 4071.15,
+        "defaultValueForMoney": 0.947,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-09T00:00:00",
+        "price": 4409.43,
+        "finalPrice": 4409.43,
+        "defaultLocalMoneyValue": 4105.18,
+        "defaultValueForMoney": 0.931,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-16T00:00:00",
+        "price": 4399.99,
+        "finalPrice": 4399.99,
+        "defaultLocalMoneyValue": 4065.59,
+        "defaultValueForMoney": 0.924,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-23T00:00:00",
+        "price": 4199.99,
+        "finalPrice": 4199.99,
+        "defaultLocalMoneyValue": 3981.59,
+        "defaultValueForMoney": 0.948,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-03-02T00:00:00",
+        "price": 4497.8,
+        "finalPrice": 4497.8,
+        "defaultLocalMoneyValue": 4151.47,
+        "defaultValueForMoney": 0.923,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-03-09T00:00:00",
+        "price": 4199.9,
+        "finalPrice": 4199.9,
+        "defaultLocalMoneyValue": 3981.51,
+        "defaultValueForMoney": 0.948,
+        "installmentMonths": null
+      }
+    ]
+  },
+  {
+    "merchantName": null,
+    "productDescription": "RTX 5070 Ti",
+    "productPopularityScore": 465,
+    "priceHistory": [
+      {
+        "date": "2025-03-31T00:00:00",
+        "price": 6999.99,
+        "finalPrice": 6999.99,
+        "defaultLocalMoneyValue": 5410.99,
+        "defaultValueForMoney": 0.773,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-07T00:00:00",
+        "price": 6999.99,
+        "finalPrice": 6999.99,
+        "defaultLocalMoneyValue": 5333.99,
+        "defaultValueForMoney": 0.762,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-14T00:00:00",
+        "price": 6998.99,
+        "finalPrice": 6998.99,
+        "defaultLocalMoneyValue": 5410.22,
+        "defaultValueForMoney": 0.773,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-21T00:00:00",
+        "price": 6598.99,
+        "finalPrice": 6598.99,
+        "defaultLocalMoneyValue": 5325.38,
+        "defaultValueForMoney": 0.807,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-28T00:00:00",
+        "price": 6598.99,
+        "finalPrice": 6598.99,
+        "defaultLocalMoneyValue": 5325.38,
+        "defaultValueForMoney": 0.807,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-05T00:00:00",
+        "price": 6598.99,
+        "finalPrice": 6598.99,
+        "defaultLocalMoneyValue": 5325.38,
+        "defaultValueForMoney": 0.807,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-12T00:00:00",
+        "price": 6298.99,
+        "finalPrice": 6298.99,
+        "defaultLocalMoneyValue": 5328.95,
+        "defaultValueForMoney": 0.846,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-19T00:00:00",
+        "price": 6399.99,
+        "finalPrice": 6399.99,
+        "defaultLocalMoneyValue": 5433.59,
+        "defaultValueForMoney": 0.849,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-26T00:00:00",
+        "price": 6399.99,
+        "finalPrice": 6399.99,
+        "defaultLocalMoneyValue": 5433.59,
+        "defaultValueForMoney": 0.849,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-02T00:00:00",
+        "price": 6899.99,
+        "finalPrice": 6899.99,
+        "defaultLocalMoneyValue": 5409.59,
+        "defaultValueForMoney": 0.784,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-09T00:00:00",
+        "price": 6499.9,
+        "finalPrice": 6499.9,
+        "defaultLocalMoneyValue": 5472.92,
+        "defaultValueForMoney": 0.842,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-16T00:00:00",
+        "price": 6499.9,
+        "finalPrice": 6499.9,
+        "defaultLocalMoneyValue": 5388.42,
+        "defaultValueForMoney": 0.829,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-23T00:00:00",
+        "price": 6449.14,
+        "finalPrice": 6449.14,
+        "defaultLocalMoneyValue": 5359.24,
+        "defaultValueForMoney": 0.831,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-30T00:00:00",
+        "price": 5998.99,
+        "finalPrice": 5998.99,
+        "defaultLocalMoneyValue": 5357.1,
+        "defaultValueForMoney": 0.893,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-07T00:00:00",
+        "price": 5998.99,
+        "finalPrice": 5998.99,
+        "defaultLocalMoneyValue": 5477.08,
+        "defaultValueForMoney": 0.913,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-14T00:00:00",
+        "price": 6399,
+        "finalPrice": 6399,
+        "defaultLocalMoneyValue": 5355.96,
+        "defaultValueForMoney": 0.837,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-21T00:00:00",
+        "price": 6298.99,
+        "finalPrice": 6298.99,
+        "defaultLocalMoneyValue": 5335.24,
+        "defaultValueForMoney": 0.847,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-28T00:00:00",
+        "price": 5999.99,
+        "finalPrice": 5999.99,
+        "defaultLocalMoneyValue": 5333.99,
+        "defaultValueForMoney": 0.889,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-04T00:00:00",
+        "price": 5799,
+        "finalPrice": 5799,
+        "defaultLocalMoneyValue": 5335.08,
+        "defaultValueForMoney": 0.92,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-11T00:00:00",
+        "price": 5799,
+        "finalPrice": 5799,
+        "defaultLocalMoneyValue": 5335.08,
+        "defaultValueForMoney": 0.92,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-18T00:00:00",
+        "price": 5799,
+        "finalPrice": 5799,
+        "defaultLocalMoneyValue": 5335.08,
+        "defaultValueForMoney": 0.92,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-25T00:00:00",
+        "price": 5750.25,
+        "finalPrice": 5750.25,
+        "defaultLocalMoneyValue": 5290.23,
+        "defaultValueForMoney": 0.92,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-01T00:00:00",
+        "price": 5750.25,
+        "finalPrice": 5750.25,
+        "defaultLocalMoneyValue": 5272.98,
+        "defaultValueForMoney": 0.917,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-08T00:00:00",
+        "price": 5553.98,
+        "finalPrice": 5553.98,
+        "defaultLocalMoneyValue": 5331.82,
+        "defaultValueForMoney": 0.96,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-15T00:00:00",
+        "price": 5699.9,
+        "finalPrice": 5699.9,
+        "defaultLocalMoneyValue": 5335.11,
+        "defaultValueForMoney": 0.936,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-22T00:00:00",
+        "price": 6029.9,
+        "finalPrice": 6029.9,
+        "defaultLocalMoneyValue": 5469.12,
+        "defaultValueForMoney": 0.907,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-29T00:00:00",
+        "price": 5799.99,
+        "finalPrice": 5799.99,
+        "defaultLocalMoneyValue": 5411.39,
+        "defaultValueForMoney": 0.933,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-06T00:00:00",
+        "price": 5549.9,
+        "finalPrice": 5549.9,
+        "defaultLocalMoneyValue": 5272.41,
+        "defaultValueForMoney": 0.95,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-13T00:00:00",
+        "price": 5499,
+        "finalPrice": 5499,
+        "defaultLocalMoneyValue": 5334.03,
+        "defaultValueForMoney": 0.97,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-20T00:00:00",
+        "price": 5539.9,
+        "finalPrice": 5539.9,
+        "defaultLocalMoneyValue": 5268.44,
+        "defaultValueForMoney": 0.951,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-27T00:00:00",
+        "price": 5599.8,
+        "finalPrice": 5599.8,
+        "defaultLocalMoneyValue": 5331.01,
+        "defaultValueForMoney": 0.952,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-03T00:00:00",
+        "price": 5979.99,
+        "finalPrice": 5979.99,
+        "defaultLocalMoneyValue": 5447.77,
+        "defaultValueForMoney": 0.911,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-10T00:00:00",
+        "price": 5656.46,
+        "finalPrice": 5656.46,
+        "defaultLocalMoneyValue": 5390.61,
+        "defaultValueForMoney": 0.953,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-17T00:00:00",
+        "price": 5799.9,
+        "finalPrice": 5799.9,
+        "defaultLocalMoneyValue": 5330.11,
+        "defaultValueForMoney": 0.919,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-24T00:00:00",
+        "price": 5499,
+        "finalPrice": 5499,
+        "defaultLocalMoneyValue": 5334.03,
+        "defaultValueForMoney": 0.97,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-01T00:00:00",
+        "price": 5999,
+        "finalPrice": 5999,
+        "defaultLocalMoneyValue": 5333.11,
+        "defaultValueForMoney": 0.889,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-08T00:00:00",
+        "price": 5999.9,
+        "finalPrice": 5999.9,
+        "defaultLocalMoneyValue": 5393.91,
+        "defaultValueForMoney": 0.899,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-15T00:00:00",
+        "price": 5979,
+        "finalPrice": 5979,
+        "defaultLocalMoneyValue": 5500.68,
+        "defaultValueForMoney": 0.92,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-22T00:00:00",
+        "price": 5998.99,
+        "finalPrice": 5998.99,
+        "defaultLocalMoneyValue": 5519.07,
+        "defaultValueForMoney": 0.92,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-29T00:00:00",
+        "price": 6099.99,
+        "finalPrice": 6099.99,
+        "defaultLocalMoneyValue": 5642.49,
+        "defaultValueForMoney": 0.925,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-05T00:00:00",
+        "price": 6099.99,
+        "finalPrice": 6099.99,
+        "defaultLocalMoneyValue": 5435.09,
+        "defaultValueForMoney": 0.891,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-12T00:00:00",
+        "price": 6159.99,
+        "finalPrice": 6159.99,
+        "defaultLocalMoneyValue": 5513.19,
+        "defaultValueForMoney": 0.895,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-19T00:00:00",
+        "price": 6499.99,
+        "finalPrice": 6499.99,
+        "defaultLocalMoneyValue": 5414.49,
+        "defaultValueForMoney": 0.833,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-26T00:00:00",
+        "price": 6999.99,
+        "finalPrice": 6999.99,
+        "defaultLocalMoneyValue": 5473.99,
+        "defaultValueForMoney": 0.782,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-02T00:00:00",
+        "price": 6899,
+        "finalPrice": 6899,
+        "defaultLocalMoneyValue": 5526.1,
+        "defaultValueForMoney": 0.801,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-09T00:00:00",
+        "price": 6999,
+        "finalPrice": 6999,
+        "defaultLocalMoneyValue": 5270.25,
+        "defaultValueForMoney": 0.753,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-16T00:00:00",
+        "price": 6599,
+        "finalPrice": 6599,
+        "defaultLocalMoneyValue": 5272.6,
+        "defaultValueForMoney": 0.799,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-23T00:00:00",
+        "price": 6599,
+        "finalPrice": 6599,
+        "defaultLocalMoneyValue": 5272.6,
+        "defaultValueForMoney": 0.799,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-03-02T00:00:00",
+        "price": 6799,
+        "finalPrice": 6799,
+        "defaultLocalMoneyValue": 5276.02,
+        "defaultValueForMoney": 0.776,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-03-09T00:00:00",
+        "price": 6799,
+        "finalPrice": 6799,
+        "defaultLocalMoneyValue": 5276.02,
+        "defaultValueForMoney": 0.776,
+        "installmentMonths": null
+      }
+    ]
+  },
+  {
+    "merchantName": null,
+    "productDescription": "RTX 5080",
+    "productPopularityScore": 215,
+    "priceHistory": [
+      {
+        "date": "2025-03-31T00:00:00",
+        "price": 9998.99,
+        "finalPrice": 9998.99,
+        "defaultLocalMoneyValue": 6239.37,
+        "defaultValueForMoney": 0.624,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-07T00:00:00",
+        "price": 9998.99,
+        "finalPrice": 9998.99,
+        "defaultLocalMoneyValue": 6299.36,
+        "defaultValueForMoney": 0.63,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-14T00:00:00",
+        "price": 9499,
+        "finalPrice": 9499,
+        "defaultLocalMoneyValue": 6563.81,
+        "defaultValueForMoney": 0.691,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-21T00:00:00",
+        "price": 9499,
+        "finalPrice": 9499,
+        "defaultLocalMoneyValue": 6354.83,
+        "defaultValueForMoney": 0.669,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-28T00:00:00",
+        "price": 8998.99,
+        "finalPrice": 8998.99,
+        "defaultLocalMoneyValue": 6362.29,
+        "defaultValueForMoney": 0.707,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-05T00:00:00",
+        "price": 8998.99,
+        "finalPrice": 8998.99,
+        "defaultLocalMoneyValue": 6362.29,
+        "defaultValueForMoney": 0.707,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-12T00:00:00",
+        "price": 8998.99,
+        "finalPrice": 8998.99,
+        "defaultLocalMoneyValue": 6362.29,
+        "defaultValueForMoney": 0.707,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-19T00:00:00",
+        "price": 8943.14,
+        "finalPrice": 8943.14,
+        "defaultLocalMoneyValue": 6421.17,
+        "defaultValueForMoney": 0.718,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-26T00:00:00",
+        "price": 8759.99,
+        "finalPrice": 8759.99,
+        "defaultLocalMoneyValue": 6333.47,
+        "defaultValueForMoney": 0.723,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-02T00:00:00",
+        "price": 8943.14,
+        "finalPrice": 8943.14,
+        "defaultLocalMoneyValue": 6421.17,
+        "defaultValueForMoney": 0.718,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-09T00:00:00",
+        "price": 8427.14,
+        "finalPrice": 8427.14,
+        "defaultLocalMoneyValue": 6413.05,
+        "defaultValueForMoney": 0.761,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-16T00:00:00",
+        "price": 8427.14,
+        "finalPrice": 8427.14,
+        "defaultLocalMoneyValue": 6413.05,
+        "defaultValueForMoney": 0.761,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-23T00:00:00",
+        "price": 8466.08,
+        "finalPrice": 8466.08,
+        "defaultLocalMoneyValue": 6391.89,
+        "defaultValueForMoney": 0.755,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-30T00:00:00",
+        "price": 8491.5,
+        "finalPrice": 8491.5,
+        "defaultLocalMoneyValue": 6334.66,
+        "defaultValueForMoney": 0.746,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-07T00:00:00",
+        "price": 7799.99,
+        "finalPrice": 7799.99,
+        "defaultLocalMoneyValue": 6154.19,
+        "defaultValueForMoney": 0.789,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-14T00:00:00",
+        "price": 7799.99,
+        "finalPrice": 7799.99,
+        "defaultLocalMoneyValue": 6154.19,
+        "defaultValueForMoney": 0.789,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-21T00:00:00",
+        "price": 7799.99,
+        "finalPrice": 7799.99,
+        "defaultLocalMoneyValue": 6154.19,
+        "defaultValueForMoney": 0.789,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-28T00:00:00",
+        "price": 7890,
+        "finalPrice": 7890,
+        "defaultLocalMoneyValue": 6304.11,
+        "defaultValueForMoney": 0.799,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-04T00:00:00",
+        "price": 8208.2,
+        "finalPrice": 8208.2,
+        "defaultLocalMoneyValue": 6303.9,
+        "defaultValueForMoney": 0.768,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-11T00:00:00",
+        "price": 7641.5,
+        "finalPrice": 7641.5,
+        "defaultLocalMoneyValue": 6288.95,
+        "defaultValueForMoney": 0.823,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-18T00:00:00",
+        "price": 7799.99,
+        "finalPrice": 7799.99,
+        "defaultLocalMoneyValue": 6419.39,
+        "defaultValueForMoney": 0.823,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-25T00:00:00",
+        "price": 7799.99,
+        "finalPrice": 7799.99,
+        "defaultLocalMoneyValue": 6427.19,
+        "defaultValueForMoney": 0.824,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-01T00:00:00",
+        "price": 7799.99,
+        "finalPrice": 7799.99,
+        "defaultLocalMoneyValue": 6395.99,
+        "defaultValueForMoney": 0.82,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-08T00:00:00",
+        "price": 7799.99,
+        "finalPrice": 7799.99,
+        "defaultLocalMoneyValue": 6395.99,
+        "defaultValueForMoney": 0.82,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-15T00:00:00",
+        "price": 7820,
+        "finalPrice": 7820,
+        "defaultLocalMoneyValue": 6224.72,
+        "defaultValueForMoney": 0.796,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-22T00:00:00",
+        "price": 7999.99,
+        "finalPrice": 7999.99,
+        "defaultLocalMoneyValue": 6367.99,
+        "defaultValueForMoney": 0.796,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-29T00:00:00",
+        "price": 7298.99,
+        "finalPrice": 7298.99,
+        "defaultLocalMoneyValue": 6306.33,
+        "defaultValueForMoney": 0.864,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-06T00:00:00",
+        "price": 7638,
+        "finalPrice": 7638,
+        "defaultLocalMoneyValue": 6232.61,
+        "defaultValueForMoney": 0.816,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-13T00:00:00",
+        "price": 7638,
+        "finalPrice": 7638,
+        "defaultLocalMoneyValue": 6232.61,
+        "defaultValueForMoney": 0.816,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-20T00:00:00",
+        "price": 7271.72,
+        "finalPrice": 7271.72,
+        "defaultLocalMoneyValue": 6340.94,
+        "defaultValueForMoney": 0.872,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-27T00:00:00",
+        "price": 7821.93,
+        "finalPrice": 7821.93,
+        "defaultLocalMoneyValue": 6304.48,
+        "defaultValueForMoney": 0.806,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-03T00:00:00",
+        "price": 7821.93,
+        "finalPrice": 7821.93,
+        "defaultLocalMoneyValue": 6304.48,
+        "defaultValueForMoney": 0.806,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-10T00:00:00",
+        "price": 7899.99,
+        "finalPrice": 7899.99,
+        "defaultLocalMoneyValue": 6304.19,
+        "defaultValueForMoney": 0.798,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-17T00:00:00",
+        "price": 7949.99,
+        "finalPrice": 7949.99,
+        "defaultLocalMoneyValue": 6391.79,
+        "defaultValueForMoney": 0.804,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-24T00:00:00",
+        "price": 8074.15,
+        "finalPrice": 8074.15,
+        "defaultLocalMoneyValue": 6233.24,
+        "defaultValueForMoney": 0.772,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-01T00:00:00",
+        "price": 8199,
+        "finalPrice": 8199,
+        "defaultLocalMoneyValue": 6231.24,
+        "defaultValueForMoney": 0.76,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-08T00:00:00",
+        "price": 8599.9,
+        "finalPrice": 8599.9,
+        "defaultLocalMoneyValue": 6441.33,
+        "defaultValueForMoney": 0.749,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-15T00:00:00",
+        "price": 8599.9,
+        "finalPrice": 8599.9,
+        "defaultLocalMoneyValue": 6441.33,
+        "defaultValueForMoney": 0.749,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-22T00:00:00",
+        "price": 8540.05,
+        "finalPrice": 8540.05,
+        "defaultLocalMoneyValue": 6302.56,
+        "defaultValueForMoney": 0.738,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-29T00:00:00",
+        "price": 8599.9,
+        "finalPrice": 8599.9,
+        "defaultLocalMoneyValue": 6346.73,
+        "defaultValueForMoney": 0.738,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-05T00:00:00",
+        "price": 8943.14,
+        "finalPrice": 8943.14,
+        "defaultLocalMoneyValue": 6304.91,
+        "defaultValueForMoney": 0.705,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-12T00:00:00",
+        "price": 9107.4,
+        "finalPrice": 9107.4,
+        "defaultLocalMoneyValue": 6356.97,
+        "defaultValueForMoney": 0.698,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-19T00:00:00",
+        "price": 9107.4,
+        "finalPrice": 9107.4,
+        "defaultLocalMoneyValue": 6356.97,
+        "defaultValueForMoney": 0.698,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-26T00:00:00",
+        "price": 9998.99,
+        "finalPrice": 9998.99,
+        "defaultLocalMoneyValue": 6229.37,
+        "defaultValueForMoney": 0.623,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-02T00:00:00",
+        "price": 9998.99,
+        "finalPrice": 9998.99,
+        "defaultLocalMoneyValue": 6229.37,
+        "defaultValueForMoney": 0.623,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-09T00:00:00",
+        "price": 9998.99,
+        "finalPrice": 9998.99,
+        "defaultLocalMoneyValue": 6229.37,
+        "defaultValueForMoney": 0.623,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-16T00:00:00",
+        "price": 9509.99,
+        "finalPrice": 9509.99,
+        "defaultLocalMoneyValue": 6866.21,
+        "defaultValueForMoney": 0.722,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-23T00:00:00",
+        "price": 9998.99,
+        "finalPrice": 9998.99,
+        "defaultLocalMoneyValue": 6229.37,
+        "defaultValueForMoney": 0.623,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-03-02T00:00:00",
+        "price": 9998.99,
+        "finalPrice": 9998.99,
+        "defaultLocalMoneyValue": 6229.37,
+        "defaultValueForMoney": 0.623,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-03-09T00:00:00",
+        "price": 9998.99,
+        "finalPrice": 9998.99,
+        "defaultLocalMoneyValue": 6229.37,
+        "defaultValueForMoney": 0.623,
+        "installmentMonths": null
+      }
+    ]
+  },
+  {
+    "merchantName": null,
+    "productDescription": "RTX 5090",
+    "productPopularityScore": 169,
+    "priceHistory": [
+      {
+        "date": "2025-03-31T00:00:00",
+        "price": 22500,
+        "finalPrice": 22500,
+        "defaultLocalMoneyValue": 10890,
+        "defaultValueForMoney": 0.484,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-07T00:00:00",
+        "price": 22500,
+        "finalPrice": 22500,
+        "defaultLocalMoneyValue": 10890,
+        "defaultValueForMoney": 0.484,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-14T00:00:00",
+        "price": 20662.5,
+        "finalPrice": 20662.5,
+        "defaultLocalMoneyValue": 11013.11,
+        "defaultValueForMoney": 0.533,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-21T00:00:00",
+        "price": 20662.5,
+        "finalPrice": 20662.5,
+        "defaultLocalMoneyValue": 11013.11,
+        "defaultValueForMoney": 0.533,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-04-28T00:00:00",
+        "price": 19898.99,
+        "finalPrice": 19898.99,
+        "defaultLocalMoneyValue": 11024.04,
+        "defaultValueForMoney": 0.554,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-05T00:00:00",
+        "price": 19898.99,
+        "finalPrice": 19898.99,
+        "defaultLocalMoneyValue": 11024.04,
+        "defaultValueForMoney": 0.554,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-12T00:00:00",
+        "price": 19898.99,
+        "finalPrice": 19898.99,
+        "defaultLocalMoneyValue": 11143.43,
+        "defaultValueForMoney": 0.56,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-19T00:00:00",
+        "price": 19999.9,
+        "finalPrice": 19999.9,
+        "defaultLocalMoneyValue": 11259.94,
+        "defaultValueForMoney": 0.563,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-05-26T00:00:00",
+        "price": 19902.5,
+        "finalPrice": 19902.5,
+        "defaultLocalMoneyValue": 11205.11,
+        "defaultValueForMoney": 0.563,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-02T00:00:00",
+        "price": 18900,
+        "finalPrice": 18900,
+        "defaultLocalMoneyValue": 11018.7,
+        "defaultValueForMoney": 0.583,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-09T00:00:00",
+        "price": 17999,
+        "finalPrice": 17999,
+        "defaultLocalMoneyValue": 10871.4,
+        "defaultValueForMoney": 0.604,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-16T00:00:00",
+        "price": 17999,
+        "finalPrice": 17999,
+        "defaultLocalMoneyValue": 10871.4,
+        "defaultValueForMoney": 0.604,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-23T00:00:00",
+        "price": 17999,
+        "finalPrice": 17999,
+        "defaultLocalMoneyValue": 10871.4,
+        "defaultValueForMoney": 0.604,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-06-30T00:00:00",
+        "price": 16999.9,
+        "finalPrice": 16999.9,
+        "defaultLocalMoneyValue": 12018.93,
+        "defaultValueForMoney": 0.707,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-07T00:00:00",
+        "price": 16999.9,
+        "finalPrice": 16999.9,
+        "defaultLocalMoneyValue": 11202.93,
+        "defaultValueForMoney": 0.659,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-14T00:00:00",
+        "price": 17999,
+        "finalPrice": 17999,
+        "defaultLocalMoneyValue": 10871.4,
+        "defaultValueForMoney": 0.604,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-21T00:00:00",
+        "price": 17199.14,
+        "finalPrice": 17199.14,
+        "defaultLocalMoneyValue": 11024.65,
+        "defaultValueForMoney": 0.641,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-07-28T00:00:00",
+        "price": 17199.14,
+        "finalPrice": 17199.14,
+        "defaultLocalMoneyValue": 10887.06,
+        "defaultValueForMoney": 0.633,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-04T00:00:00",
+        "price": 16498.99,
+        "finalPrice": 16498.99,
+        "defaultLocalMoneyValue": 11763.78,
+        "defaultValueForMoney": 0.713,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-11T00:00:00",
+        "price": 15600,
+        "finalPrice": 15600,
+        "defaultLocalMoneyValue": 11122.8,
+        "defaultValueForMoney": 0.713,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-18T00:00:00",
+        "price": 15699.99,
+        "finalPrice": 15699.99,
+        "defaultLocalMoneyValue": 11021.39,
+        "defaultValueForMoney": 0.702,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-08-25T00:00:00",
+        "price": 15999.99,
+        "finalPrice": 15999.99,
+        "defaultLocalMoneyValue": 11023.99,
+        "defaultValueForMoney": 0.689,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-01T00:00:00",
+        "price": 16099.99,
+        "finalPrice": 16099.99,
+        "defaultLocalMoneyValue": 11157.29,
+        "defaultValueForMoney": 0.693,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-08T00:00:00",
+        "price": 16099.99,
+        "finalPrice": 16099.99,
+        "defaultLocalMoneyValue": 11157.29,
+        "defaultValueForMoney": 0.693,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-15T00:00:00",
+        "price": 16989.99,
+        "finalPrice": 16989.99,
+        "defaultLocalMoneyValue": 11162.42,
+        "defaultValueForMoney": 0.657,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-22T00:00:00",
+        "price": 16999,
+        "finalPrice": 16999,
+        "defaultLocalMoneyValue": 11015.35,
+        "defaultValueForMoney": 0.648,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-09-29T00:00:00",
+        "price": 16899.99,
+        "finalPrice": 16899.99,
+        "defaultLocalMoneyValue": 11762.39,
+        "defaultValueForMoney": 0.696,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-06T00:00:00",
+        "price": 15799.9,
+        "finalPrice": 15799.9,
+        "defaultLocalMoneyValue": 11249.53,
+        "defaultValueForMoney": 0.712,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-13T00:00:00",
+        "price": 15799.9,
+        "finalPrice": 15799.9,
+        "defaultLocalMoneyValue": 11012.53,
+        "defaultValueForMoney": 0.697,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-20T00:00:00",
+        "price": 15799.9,
+        "finalPrice": 15799.9,
+        "defaultLocalMoneyValue": 11012.53,
+        "defaultValueForMoney": 0.697,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-10-27T00:00:00",
+        "price": 15799.9,
+        "finalPrice": 15799.9,
+        "defaultLocalMoneyValue": 11012.53,
+        "defaultValueForMoney": 0.697,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-03T00:00:00",
+        "price": 16599.99,
+        "finalPrice": 16599.99,
+        "defaultLocalMoneyValue": 11387.59,
+        "defaultValueForMoney": 0.686,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-10T00:00:00",
+        "price": 17799,
+        "finalPrice": 17799,
+        "defaultLocalMoneyValue": 11765.14,
+        "defaultValueForMoney": 0.661,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-17T00:00:00",
+        "price": 17999.9,
+        "finalPrice": 17999.9,
+        "defaultLocalMoneyValue": 11051.94,
+        "defaultValueForMoney": 0.614,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-11-24T00:00:00",
+        "price": 17199.99,
+        "finalPrice": 17199.99,
+        "defaultLocalMoneyValue": 11214.39,
+        "defaultValueForMoney": 0.652,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-01T00:00:00",
+        "price": 17999.9,
+        "finalPrice": 17999.9,
+        "defaultLocalMoneyValue": 11051.94,
+        "defaultValueForMoney": 0.614,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-08T00:00:00",
+        "price": 17599.99,
+        "finalPrice": 17599.99,
+        "defaultLocalMoneyValue": 11158.39,
+        "defaultValueForMoney": 0.634,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-15T00:00:00",
+        "price": 17599.99,
+        "finalPrice": 17599.99,
+        "defaultLocalMoneyValue": 11158.39,
+        "defaultValueForMoney": 0.634,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-22T00:00:00",
+        "price": 17999.9,
+        "finalPrice": 17999.9,
+        "defaultLocalMoneyValue": 11051.94,
+        "defaultValueForMoney": 0.614,
+        "installmentMonths": null
+      },
+      {
+        "date": "2025-12-29T00:00:00",
+        "price": 17999.9,
+        "finalPrice": 17999.9,
+        "defaultLocalMoneyValue": 11051.94,
+        "defaultValueForMoney": 0.614,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-05T00:00:00",
+        "price": 19599.99,
+        "finalPrice": 19599.99,
+        "defaultLocalMoneyValue": 11759.99,
+        "defaultValueForMoney": 0.6,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-12T00:00:00",
+        "price": 19999.99,
+        "finalPrice": 19999.99,
+        "defaultLocalMoneyValue": 11759.99,
+        "defaultValueForMoney": 0.588,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-19T00:00:00",
+        "price": 22499.99,
+        "finalPrice": 22499.99,
+        "defaultLocalMoneyValue": 11767.49,
+        "defaultValueForMoney": 0.523,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-01-26T00:00:00",
+        "price": 24999.99,
+        "finalPrice": 24999.99,
+        "defaultLocalMoneyValue": 11150,
+        "defaultValueForMoney": 0.446,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-02T00:00:00",
+        "price": 21999.99,
+        "finalPrice": 21999.99,
+        "defaultLocalMoneyValue": 12033.99,
+        "defaultValueForMoney": 0.547,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-09T00:00:00",
+        "price": 21999.99,
+        "finalPrice": 21999.99,
+        "defaultLocalMoneyValue": 12033.99,
+        "defaultValueForMoney": 0.547,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-16T00:00:00",
+        "price": 20999.99,
+        "finalPrice": 20999.99,
+        "defaultLocalMoneyValue": 11759.99,
+        "defaultValueForMoney": 0.56,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-02-23T00:00:00",
+        "price": 20699.99,
+        "finalPrice": 20699.99,
+        "defaultLocalMoneyValue": 12026.69,
+        "defaultValueForMoney": 0.581,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-03-02T00:00:00",
+        "price": 21999.99,
+        "finalPrice": 21999.99,
+        "defaultLocalMoneyValue": 12033.99,
+        "defaultValueForMoney": 0.547,
+        "installmentMonths": null
+      },
+      {
+        "date": "2026-03-09T00:00:00",
+        "price": 21999.99,
+        "finalPrice": 21999.99,
+        "defaultLocalMoneyValue": 12033.99,
+        "defaultValueForMoney": 0.547,
+        "installmentMonths": null
+      }
+    ]
+  }
+]
